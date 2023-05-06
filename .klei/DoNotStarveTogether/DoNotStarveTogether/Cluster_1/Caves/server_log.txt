@@ -1,0 +1,1930 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 67%
+	Available Physical Memory: 5207m/16125m
+	Available Page File: 6119m/28925m
+	Available Virtual Memory: 134213479m/134217727m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 30m
+	Working Set Size: 30m
+	Quota Peak Page Pool Usage: 220k
+	Quota Page Pool Usage: 217k
+	Quota Peak Non Paged Pool Usage:16k
+	Quota Non Paged Pool Usage: 14k
+	Page File Usage: 5m
+	Peak Page File Usage: 5m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/144818993/Cluster_2/Caves/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 532704
+[00:00:00]: Current time: Sat Nov 26 15:48:58 2022
+
+[00:00:00]: Don't Starve Together: 532704 WIN32
+[00:00:00]: Build Date: 1574
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -monitor_parent_process 23604 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_2 -ownernetid 76561198105084721 -ownerdir 144818993 -clouddir 144818993 -backup_log_count 25 -backup_log_period 0 -ugc_directory E:\\SteamLibrary\\steamapps\\workshop -shard Caves -secondary_log_prefix caves -sigprefix DST_Secondary -token *********************************************************************************** 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (27520)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10998, 27017)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: ProfileIndex:0.69
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: THREAD - started 'Ping Job Thread' (24608)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application E:\SteamLibrary\steamapps\common\Don't Starve Together\bin64\dontstarve_dedicated_server_nullrenderer_x64.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/144818993/client_save/blocklist.txt (Failure)
+[00:00:01]: THREAD - started 'StreamInput' (13896)
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/144818993/client_save/adminlist.txt (Failure)
+[00:00:01]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/144818993/client_save/whitelist.txt (Failure)
+[00:00:01]: Offline user ID: OU_76561198105084721
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 11 家庭中文版
+    version                   10.0.22000
+    platformSpecific          SP 0.0
+    architecture              64 位
+  CPU                       
+    clockSpeed                2500
+    name                      12th Gen Intel(R) Core(TM) i5-12500H
+    manufacturer              GenuineIntel
+    numCores                  12
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    megsOfRam                 4095
+    videoModeDescription      3840 x 2160 x 4294967296 种颜色
+    name                      NVIDIA GeForce RTX 3060 Laptop GPU
+    driverVersion             30.0.15.1264
+    driverDate                20220425000000.000000-000
+    refreshRate               60
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: AppVersion::GetArchitecture() x64
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:02]:   taskgrouplist:	default	联机版	
+[00:00:02]:   taskgrouplist:	classic	经典	
+[00:00:02]:   taskgrouplist:	cave_default	地下	
+[00:00:02]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:02]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:02]: Running main.lua
+	
+[00:00:02]: Could not load modindex	
+[00:00:02]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:02]: SUCCESS: Loaded modoverrides.lua	
+[00:00:02]: modoverrides.lua enabling workshop-856487758	
+[00:00:02]: modoverrides.lua enabling workshop-1221281706	
+[00:00:02]: modoverrides.lua enabling workshop-347079953	
+[00:00:02]: modoverrides.lua enabling workshop-786556008	
+[00:00:02]: modoverrides.lua enabling workshop-375850593	
+[00:00:02]: modoverrides.lua enabling workshop-1207269058	
+[00:00:02]: modoverrides.lua enabling workshop-1185229307	
+[00:00:02]: modoverrides.lua enabling workshop-623749604	
+[00:00:02]: modoverrides.lua enabling workshop-666155465	
+[00:00:02]: modoverrides.lua enabling workshop-661253977	
+[00:00:02]: modoverrides.lua enabling workshop-569043634	
+[00:00:02]: modoverrides.lua enabling workshop-378160973	
+[00:00:02]: modoverrides.lua enabling workshop-375859599	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-661253977	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-786556008	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-856487758	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-623749604	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1221281706	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-375859599	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-347079953_CLIENT	
+[00:00:02]: Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-375850593_CLIENT	
+[00:00:02]: Loading mod: workshop-375850593 (Extra Equip Slots) Version:1.8.0	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-661253977_CLIENT	
+[00:00:02]: Loading mod: workshop-661253977 ( Don't Drop Everything) Version:11:15 2020-08-10	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-786556008_CLIENT	
+[00:00:02]: Loading mod: workshop-786556008 (45 Inventory Slots) Version:1.4.1	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-856487758_CLIENT	
+[00:00:02]: Loading mod: workshop-856487758 (Quick Drop) Version:1.1	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
+[00:00:02]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.16	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1185229307_CLIENT	
+[00:00:02]: Loading mod: workshop-1185229307 (史诗般的血量条) Version:61	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-623749604_CLIENT	
+[00:00:02]: Loading mod: workshop-623749604 (Storeroom) Version:2.6a	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-666155465_CLIENT	
+[00:00:02]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.58	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1221281706_CLIENT	
+[00:00:02]: Loading mod: workshop-1221281706 (The Forge Item Pack) Version:1.1.11	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:02]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.4	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[00:00:02]: Loading mod: workshop-375859599 (Health Info) Version:2.2.03	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-569043634_CLIENT	
+[00:00:02]: Loading mod: workshop-569043634 (Campfire Respawn) Version:1.6.8.1	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-856487758	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1221281706	
+[00:00:02]: Overriding mod workshop-1221281706's option WOVENGARLAND_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option BACONTOME_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option LIVINGSTAFF_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option WOVENGARLAND_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option INFERNALSTAFF_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option CRYSTALTIARA_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option BACONTOME_DURABILITY_SPECIAL with value 5	
+[00:00:02]: Overriding mod workshop-1221281706's option NOXHELM_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option MOLTENDARTS_ALT_DAMAGE with value 50	
+[00:00:02]: Overriding mod workshop-1221281706's option FEATHEREDWREATH_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option Spiral Spear options with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option MOLTENDARTS_DAMAGE with value 25	
+[00:00:02]: Overriding mod workshop-1221281706's option SPIRALSPEAR_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option INFERNALSTAFF_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option BARBEDHELM_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option Living Staff options with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option BLOSSOMEDWREATH_HEAL_LIMIT with value 0.8	
+[00:00:02]: Overriding mod workshop-1221281706's option PITHPIKE_DAMAGE with value 25	
+[00:00:02]: Overriding mod workshop-1221281706's option BARBEDHELM_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option Armors options with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option STEADFASTARMOR_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option DARTS_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option SPLINTMAIL_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option SPLINTMAIL_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option ARMOR_HPPETMASTERY_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option DARTS_DURABILITY_NORMAL with value 1	
+[00:00:02]: Overriding mod workshop-1221281706's option SPIRALSPEAR_DURABILITY_SPECIAL with value 5	
+[00:00:02]: Overriding mod workshop-1221281706's option SPIRALSPEAR_DURABILITY_NORMAL with value 1	
+[00:00:02]: Overriding mod workshop-1221281706's option DARTS_COOLDOWN with value 18	
+[00:00:02]: Overriding mod workshop-1221281706's option PITHPIKE_COOLDOWN with value 12	
+[00:00:02]: Overriding mod workshop-1221281706's option SPIRALSPEAR_DAMAGE with value 30	
+[00:00:02]: Overriding mod workshop-1221281706's option BACONTOME_COOLDOWN with value 18	
+[00:00:02]: Overriding mod workshop-1221281706's option FORGE_WOODARMOR_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option SPIRALSPEAR_COOLDOWN with value 12	
+[00:00:02]: Overriding mod workshop-1221281706's option SPIRALSPEAR_ALT_DAMAGE with value 75	
+[00:00:02]: Overriding mod workshop-1221281706's option LIVINGSTAFF_DURATION with value 10	
+[00:00:02]: Overriding mod workshop-1221281706's option SILKENARMOR_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option CLAIRVOYANTCROWN_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option Hats options with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option FORGINGHAMMER_ALT_DAMAGE with value 30	
+[00:00:02]: Overriding mod workshop-1221281706's option ARMOR_HPPETMASTERY_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option PREVENT_COMPAGNION_ATTACK with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option FLOWERHEADBAND_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option Tome of Beconing options with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option FLOWERHEADBAND_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option BLOSSOMEDWREATH_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option PITHPIKE_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option REEDTUNIC_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option REEDTUNIC_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option Pith Pike options with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option ARMOR_HPRECHARGER_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option Global options with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option SILKENARMOR_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option PITHPIKE_DURABILITY_SPECIAL with value 5	
+[00:00:02]: Overriding mod workshop-1221281706's option INFERNALSTAFF_ALT_DAMAGE with value 200	
+[00:00:02]: Overriding mod workshop-1221281706's option Infernalstaff options with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option RESPLENDENTNOXHELM_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option CRYSTALTIARA_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option Blacksmith Edge options with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option PITHPIKE_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option STEADFASTARMOR_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option FEATHEREDTUNIC_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option ARMOR_HPDAMAGER_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option FEATHEREDWREATH_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option PITHPIKE_ALT_DAMAGE with value 25	
+[00:00:02]: Overriding mod workshop-1221281706's option MOLTENDARTS_DURABILITY_SPECIAL with value 5	
+[00:00:02]: Overriding mod workshop-1221281706's option NOXHELM_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option BACONTOME_DAMAGE with value 15	
+[00:00:02]: Overriding mod workshop-1221281706's option PITHPIKE_DURABILITY_NORMAL with value 1	
+[00:00:02]: Overriding mod workshop-1221281706's option HEARTHSFIRE_CRYSTALS_DURABILITY_SPECIAL with value 5	
+[00:00:02]: Overriding mod workshop-1221281706's option Moltendarts options with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option ARMOR_HPDAMAGER_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option JAGGEDARMOR_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option BLOSSOMEDWREATH_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option LIVINGSTAFF_DAMAGE with value 10	
+[00:00:02]: Overriding mod workshop-1221281706's option ARMOR_HPRECHARGER_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option MOLTENDARTS_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option BLACKSMITH_EDGE_DAMAGE with value 30	
+[00:00:02]: Overriding mod workshop-1221281706's option MOLTENDARTS_COOLDOWN with value 18	
+[00:00:02]: Overriding mod workshop-1221281706's option RESPLENDENTNOXHELM_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option LIVINGSTAFF_RATE with value 6	
+[00:00:02]: Overriding mod workshop-1221281706's option LIVINGSTAFF_DURABILITY_SPECIAL with value 5	
+[00:00:02]: Overriding mod workshop-1221281706's option LIVINGSTAFF_DURABILITY_NORMAL with value 1	
+[00:00:02]: Overriding mod workshop-1221281706's option LIVINGSTAFF_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option FORGING_HAMMER_DURABILITY_SPECIAL with value 5	
+[00:00:02]: Overriding mod workshop-1221281706's option MOLTENDARTS_DURABILITY_NORMAL with value 1	
+[00:00:02]: Overriding mod workshop-1221281706's option LIVINGSTAFF_COOLDOWN with value 18	
+[00:00:02]: Overriding mod workshop-1221281706's option Fire golem options with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option JAGGEDARMOR_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option ARMOR_HPEXTRAHEAVY_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option FORGING_HAMMER_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option INFERNALSTAFF_DURABILITY_NORMAL with value 1	
+[00:00:02]: Overriding mod workshop-1221281706's option INFERNALSTAFF_DAMAGE with value 25	
+[00:00:02]: Overriding mod workshop-1221281706's option INFERNALSTAFF_COOLDOWN with value 24	
+[00:00:02]: Overriding mod workshop-1221281706's option FORGE_WOODARMOR_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option NORMAL_GAME_BOOSTED with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option BLOSSOMEDWREATH_HEAL_RATE with value 1	
+[00:00:02]: Overriding mod workshop-1221281706's option HEARTHSFIRE_CRYSTALS_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option HEARTHSFIRE_CRYSTALS_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option BLACKSMITH_EDGE_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option DARTS_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option MOLTENDARTS_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option DARTS_DURABILITY_SPECIAL with value 5	
+[00:00:02]: Overriding mod workshop-1221281706's option HEARTHSFIRE_CRYSTALS_ALT_DAMAGE with value 100	
+[00:00:02]: Overriding mod workshop-1221281706's option HEARTHSFIRE_CRYSTALS_ALT_DAMAGE with value 100	
+[00:00:02]: Overriding mod workshop-1221281706's option GOLEM_DAMAGE with value 25	
+[00:00:02]: Overriding mod workshop-1221281706's option Forging Hammer options with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option FORGING_HAMMER_DURABILITY_NORMAL with value 1	
+[00:00:02]: Overriding mod workshop-1221281706's option FORGING_HAMMER_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option CLAIRVOYANTCROWN_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option INFERNALSTAFF_DURABILITY_SPECIAL with value 5	
+[00:00:02]: Overriding mod workshop-1221281706's option FORGING_HAMMER_COOLDOWN with value 18	
+[00:00:02]: Overriding mod workshop-1221281706's option SPIRALSPEAR_DURABILITY with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option BLACKSMITH_EDGE_DURABILITY_NORMAL with value 1	
+[00:00:02]: Overriding mod workshop-1221281706's option DARTS_DAMAGE with value 20	
+[00:00:02]: Overriding mod workshop-1221281706's option BLACKSMITH_EDGE_DURABILITY_SPECIAL with value 5	
+[00:00:02]: Overriding mod workshop-1221281706's option BLACKSMITH_EDGE_HELMSPLIT_DAMAGE with value 100	
+[00:00:02]: Overriding mod workshop-1221281706's option FEATHEREDTUNIC_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option BLACKSMITH_EDGE_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option BLACKSMITH_EDGE_COOLDOWN with value 12	
+[00:00:02]: Overriding mod workshop-1221281706's option ARMOR_HPEXTRAHEAVY_DISABLE_RECIPE with value false	
+[00:00:02]: Overriding mod workshop-1221281706's option FORGINGHAMMER_DAMAGE with value 20	
+[00:00:02]: Overriding mod workshop-1221281706's option Hearthsfire Crystals options with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option HEARTHSFIRE_CRYSTALS_DAMAGE with value 15	
+[00:00:02]: Overriding mod workshop-1221281706's option HEARTHSFIRE_CRYSTALS_COOLDOWN with value 5	
+[00:00:02]: Overriding mod workshop-1221281706's option Darts options with value 0	
+[00:00:02]: Overriding mod workshop-1221281706's option BACONTOME_DURABILITY with value 0	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
+[00:00:02]: Overriding mod workshop-347079953's option DFV_Language with value EN	
+[00:00:02]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-786556008	
+[00:00:02]: Overriding mod workshop-786556008's option EXTRASLOT with value 0	
+[00:00:02]: Overriding mod workshop-786556008's option ENABLEBACKPACK with value false	
+[00:00:02]: Overriding mod workshop-786556008's option INVENTORYSIZE with value 45	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:02]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:02]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:02]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:02]: Overriding mod workshop-1185229307's option WETNESS_METER with value false	
+[00:00:02]: Overriding mod workshop-1185229307's option NOEPIC with value false	
+[00:00:02]: Overriding mod workshop-1185229307's option FRAME_PHASES with value true	
+[00:00:02]: Overriding mod workshop-1185229307's option DAMAGE_NUMBERS with value true	
+[00:00:02]: Overriding mod workshop-1185229307's option NONOEPIC with value false	
+[00:00:02]: Overriding mod workshop-1185229307's option DAMAGE_RESISTANCE with value true	
+[00:00:02]: Overriding mod workshop-1185229307's option HORIZONTAL_OFFSET with value 0	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-623749604	
+[00:00:02]: Overriding mod workshop-623749604's option FoodSpoilage with value 1	
+[00:00:02]: Overriding mod workshop-623749604's option Destroyable with value DestroyByAll	
+[00:00:02]: Overriding mod workshop-623749604's option Slots with value 80	
+[00:00:02]: Overriding mod workshop-623749604's option Position with value Center	
+[00:00:02]: Overriding mod workshop-623749604's option Language with value En	
+[00:00:02]: Overriding mod workshop-623749604's option Craft with value Normal	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:02]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:02]: Overriding mod workshop-666155465's option display_hp with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:02]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:02]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:00:02]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-661253977	
+[00:00:02]: Overriding mod workshop-661253977's option nillots with value 0	
+[00:00:02]: Overriding mod workshop-661253977's option baodiao with value 1	
+[00:00:02]: Overriding mod workshop-661253977's option amudiao with value true	
+[00:00:02]: Overriding mod workshop-661253977's option zbdiao with value true	
+[00:00:02]: Overriding mod workshop-661253977's option kong with value 0	
+[00:00:02]: Overriding mod workshop-661253977's option rendiao with value 2	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-569043634	
+[00:00:02]: Overriding mod workshop-569043634's option ReturnHotkey_Mode with value Closest	
+[00:00:02]: Overriding mod workshop-569043634's option campfire with value Enabled	
+[00:00:02]: Overriding mod workshop-569043634's option Health_Penalty_Generic with value Unchanged	
+[00:00:02]: Overriding mod workshop-569043634's option skeleton with value Unchanged	
+[00:00:02]: Overriding mod workshop-569043634's option NoPlayerSkeletons with value Unchanged	
+[00:00:02]: Overriding mod workshop-569043634's option Health_Respawn_Amount with value Unchanged	
+[00:00:02]: Overriding mod workshop-569043634's option Health_Penalty_Maximum with value Unchanged	
+[00:00:02]: Overriding mod workshop-569043634's option reviver with value Unchanged	
+[00:00:02]: Overriding mod workshop-569043634's option KeepInventory with value Unchanged	
+[00:00:02]: Overriding mod workshop-569043634's option Health_Penalty_Meat_Effigy with value Unchanged	
+[00:00:02]: Overriding mod workshop-569043634's option coldfire with value Enabled	
+[00:00:02]: Overriding mod workshop-569043634's option SpawnProtection with value Unchanged	
+[00:00:02]: Overriding mod workshop-569043634's option Health_Penalty_Portal with value Unchanged	
+[00:00:02]: Overriding mod workshop-569043634's option firepit with value Enabled	
+[00:00:02]: Overriding mod workshop-569043634's option usetags with value Unchanged	
+[00:00:02]: Overriding mod workshop-569043634's option coldfirepit with value Enabled	
+[00:00:02]: Overriding mod workshop-569043634's option ReturnHotkey with value Unchanged	
+[00:00:02]: Overriding mod workshop-569043634's option KillMe with value Unchanged	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:02]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:02]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:02]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:02]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:02]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:02]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 3	
+[00:00:02]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:02]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:02]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:02]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:02]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:02]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:02]: Overriding mod workshop-375859599's option send_unknwon_prefabs with value false	
+[00:00:02]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:02]: Mod: workshop-1185229307 (史诗般的血量条)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1185229307 (史诗般的血量条)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1185229307 (史诗般的血量条)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-347079953 (Display food values)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-786556008 (45 Inventory Slots)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-786556008 (45 Inventory Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-786556008 (45 Inventory Slots)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[00:00:02]: ShowMe version:	0.58	
+[00:00:02]: show_food_units	-1	-1	-1	
+[00:00:02]: show_uses	-1	-1	-1	
+[00:00:02]: Detected language for ShowMe: 	auto	zh	
+[00:00:02]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:00:02]: Mod: workshop-1221281706 (The Forge Item Pack)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1221281706 (The Forge Item Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1221281706 (The Forge Item Pack)	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-1221281706/scripts/mod_main.lua	
+[00:00:02]: Warning: function AddRecipeTab in modmain is deprecated.	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	forgedarts	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	forginghammer	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	riledlucy	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	pithpike	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	livingstaff	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	moltendarts	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	infernalstaff	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	spiralspear	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	bacontome	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	hearthsfire_crystals	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	blacksmith_edge	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	reedtunic	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	featheredtunic	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	forge_woodarmor	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	jaggedarmor	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	silkenarmor	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	splintmail	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	steadfastarmor	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	armor_hpextraheavy	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	armor_hpdamager	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	armor_hprecharger	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	armor_hppetmastery	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	barbedhelm	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	noxhelm	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	resplendentnoxhelm	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	featheredwreath	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	crystaltiara	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	flowerheadband	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	wovengarland	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	clairvoyantcrown	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	blossomedwreath	
+[00:00:02]: Mod: workshop-623749604 (Storeroom)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-623749604 (Storeroom)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-623749604 (Storeroom)	Loading modmain.lua	
+[00:00:02]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	storeroom	
+[00:00:02]: ----- STOREROOM DEBUG ----- 	
+[00:00:02]: slots = 80	
+[00:00:02]: perish = 1	
+[00:00:02]: recipe: cutstone = 20 marble = 4 boards = 20	
+[00:00:02]: widget: widgetanimbank = ui_chest_5x16 widgetpos = 	(0.00, 150.00, 0.00)	 slot_x = 15 slot_y = 4 posslot_x = 91 posslot_y = 42	
+[00:00:02]: Mod: workshop-856487758 (Quick Drop)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-856487758 (Quick Drop)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-856487758 (Quick Drop)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-569043634 (Campfire Respawn)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-569043634 (Campfire Respawn)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-569043634 (Campfire Respawn)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-661253977 ( Don't Drop Everything)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-661253977 ( Don't Drop Everything)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-661253977 ( Don't Drop Everything)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-661253977	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-786556008	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-856487758	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-623749604	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1221281706	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-375859599	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
+[00:00:02]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[00:00:02]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:03]: LOADING LUA SUCCESS
+[00:00:03]: Registering Server mod namespace "workshop-1207269058"
+[00:00:03]: Registering Server mod namespace "food item"
+[00:00:03]: Registering Server mod namespace "showme"
+[00:00:03]: Registering Server mod namespace "showmeshint"
+[00:00:03]: Registering Server mod namespace "workshop-378160973"
+[00:00:03]: PlayerDeaths could not load morgue	
+[00:00:03]: PlayerHistory could not load player_history	
+[00:00:03]: ServerPreferences could not load server_preferences	
+[00:00:03]: ConsoleScreenSettings could not load consolescreen	
+[00:00:03]: bloom_enabled	true	
+[00:00:03]: OnFilesLoaded()	
+[00:00:03]: OnUpdatePurchaseStateComplete	
+[00:00:03]: Klump load on boot started.	
+[00:00:03]: Klump files loaded: 	0	
+[00:00:05]: Mod: workshop-1185229307 (史诗般的血量条)	Registering prefabs	
+[00:00:05]: Mod: workshop-1185229307 (史诗般的血量条)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:00:05]: Mod: workshop-1185229307 (史诗般的血量条)	    epichealth_proxy	
+[00:00:05]: Mod: workshop-1185229307 (史诗般的血量条)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-375850593 (Extra Equip Slots)	Registering prefabs	
+[00:00:05]: Mod: workshop-375850593 (Extra Equip Slots)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-347079953 (Display food values)	Registering prefabs	
+[00:00:05]: Mod: workshop-347079953 (Display food values)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-786556008 (45 Inventory Slots)	Registering prefabs	
+[00:00:05]: Mod: workshop-786556008 (45 Inventory Slots)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[00:00:05]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:00:05]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	Registering prefabs	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/forgedarts	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    forgedarts	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    forgedarts_projectile	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    forgedarts_projectile_alt	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/forginghammer	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    forginghammer	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    forginghammer_crackle_fx	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    forginghammer_cracklebase_fx	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    forgeelectricute_fx	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/riledlucy	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    riledlucy	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    lucyspin_fx	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    splash_lavafx	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/pithpike	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    pithpike	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/livingstaff	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    livingstaff	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/moltendarts	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    moltendarts	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    moltendarts_projectile	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    moltendarts_projectile_explosive	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/infernalstaff	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    infernalstaff	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/spiralspear	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    spiralspear	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/hearthsfire_crystals	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    hearthsfire_crystals	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    hearthsfire_crystals_projectile	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    hearthsfire_crystals_explosion	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    hearthsfire_crystals_proc_fx	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    hearthsfire_crystals_sparks	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/blacksmith_edge	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    blacksmith_edge	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/forge_books	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    petrifyingtome	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    bacontome	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/forge_armor	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    armor_hpextraheavy	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    armor_hppetmastery	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    steadfastarmor	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    armor_hpdamager	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    splintmail	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    featheredtunic	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    reedtunic	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    armor_hprecharger	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    jaggedarmor	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    forge_woodarmor	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    silkenarmor	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/forge_hats	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    flowerheadband	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    wovengarland	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    barbedhelm	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    clairvoyantcrown	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    blossomedwreath	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    featheredwreath	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    resplendentnoxhelm	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    crystaltiara	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    noxhelm	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/golem	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    golem	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/forge_fireball_projectile	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    forge_fireball_projectile	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    forge_blossom_projectile	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    forge_fireball_hit_fx	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    forge_blossom_hit_fx	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    forge_fireball_projectile_fast	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/infernalstaff_meteor	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    infernalstaff_meteor	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    infernalstaff_meteor_splash	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    infernalstaff_meteor_splashbase	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    infernalstaff_meteor_splashhit	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/weaponsparks_fx	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    weaponsparks_fx	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/forgespear_fx	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    forgespear_fx	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/healingcircle	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    healingcircle	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    healingcircle_bloom	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    healingcircle_center	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/healingcircle_regenbuff	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	    healingcircle_regenbuff	
+[00:00:05]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-623749604 (Storeroom)	Registering prefabs	
+[00:00:05]: Mod: workshop-623749604 (Storeroom)	  Registering prefab file: prefabs/storeroom	
+[00:00:05]: Mod: workshop-623749604 (Storeroom)	    storeroom	
+[00:00:05]: Mod: workshop-623749604 (Storeroom)	    storeroom_placer	
+[00:00:05]: Mod: workshop-623749604 (Storeroom)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-856487758 (Quick Drop)	Registering prefabs	
+[00:00:05]: Mod: workshop-856487758 (Quick Drop)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-569043634 (Campfire Respawn)	Registering prefabs	
+[00:00:05]: Mod: workshop-569043634 (Campfire Respawn)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-661253977 ( Don't Drop Everything)	Registering prefabs	
+[00:00:05]: Mod: workshop-661253977 ( Don't Drop Everything)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[00:00:06]: 	Load FE	
+[00:00:06]: 	Load FE: done	
+[00:00:06]: THREAD - started 'FilesExistAsyncThread' (24052)
+[00:00:06]: FilesExistAsyncThread started (21181 files)...
+[00:00:06]: Check for write access: TRUE
+[00:00:06]: Check for read access: TRUE
+[00:00:06]: Available disk space for save files: 217678 MB
+[00:00:06]: ModIndex: Load sequence finished successfully.	
+[00:00:06]: Reset() returning
+[00:00:06]: [IPC] Signal 'DST_Secondary_Kill' opened  #000000000000075C
+[00:00:06]: [IPC] Registering handler for signal #000000000000075C
+[00:00:06]: [IPC] Handle #000000000000075C added to the Eventhandles
+[00:00:06]: [IPC] Signal 'DST_Secondary_ShutdownNoSave' opened  #00000000000007E0
+[00:00:06]: [IPC] Registering handler for signal #00000000000007E0
+[00:00:06]: [IPC] Handle #00000000000007E0 added to the Eventhandles
+[00:00:06]: [IPC] Signal 'DST_Secondary_Starting' opened  #00000000000007AC
+[00:00:06]: [IPC] Sending signal... #00000000000007AC
+[00:00:07]: [200] Account Communication Success (6)
+[00:00:07]: Cached userid (null) saved to APP:Klei//DoNotStarveTogether/144818993/Cluster_2/Caves/save/cached_userid
+[00:00:07]: Received (KU_0vPtViED) from TokenPurpose
+[00:00:07]: Starting Dedicated Server Game	
+[00:00:07]: Network tick rate: U=15(2), D=0
+[00:00:07]: About to start a server with the following settings:
+[00:00:07]:   Dedicated: true
+[00:00:07]:   Online: true
+[00:00:07]:   Passworded: false
+[00:00:07]:   ServerPort: 10998
+[00:00:07]:   SteamAuthPort: 8767
+[00:00:07]:   SteamMasterServerPort: 27017
+[00:00:07]:   ClanID: false
+[00:00:07]:   ClanOnly: false
+[00:00:07]:   ClanAdmin: false
+[00:00:07]:   LanOnly: false
+[00:00:07]:   FriendsOnly: false
+[00:00:07]:   EnableAutosaver: true
+[00:00:07]:   EncodeUserPath: true
+[00:00:07]:   PVP: false
+[00:00:07]:   MaxPlayers: 6
+[00:00:07]:   GameMode: survival
+[00:00:07]:   OverridenDNS: 
+[00:00:07]:   PauseWhenEmpty: true
+[00:00:07]:   IdleTimeout: 1800s
+[00:00:07]:   VoteEnabled: false
+[00:00:07]:   InternetBroadcasting: true
+[00:00:07]: [Warning] Could not confirm port 10998 is open in the firewall. 
+[00:00:07]: [Shard] No shard id specified, generating a random one...
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1221281706	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-347079953	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-786556008	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-569043634	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-623749604	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-375850593	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-856487758	
+[00:00:07]: Online Server Started on port: 10998
+[00:00:07]: SUCCESS: Loaded modoverrides.lua	
+[00:00:07]: Found a level data override file with these contents:	
+[00:00:07]: 	K: 	background_node_range	 V: 	table: 0000000016A21D10	
+[00:00:07]: 		K: 	1	 V: 	0	
+[00:00:07]: 		K: 	2	 V: 	1	
+[00:00:07]: 	K: 	custom_settings_desc	 V: 		
+[00:00:07]: 	K: 	custom_settings_id	 V: 	CUSTOM_ALWAYS USE IT	
+[00:00:07]: 	K: 	custom_settings_name	 V: 	always use it	
+[00:00:07]: 	K: 	custom_worldgen_desc	 V: 		
+[00:00:07]: 	K: 	custom_worldgen_id	 V: 	CUSTOM_ALWAYS USE IT	
+[00:00:07]: 	K: 	custom_worldgen_name	 V: 	always use it	
+[00:00:07]: 	K: 	desc	 V: 	探查洞穴…… 一起！	
+[00:00:07]: 	K: 	hideminimap	 V: 	false	
+[00:00:07]: 	K: 	id	 V: 	DST_CAVE	
+[00:00:07]: 	K: 	location	 V: 	cave	
+[00:00:07]: 	K: 	max_playlist_position	 V: 	999	
+[00:00:07]: 	K: 	min_playlist_position	 V: 	0	
+[00:00:07]: 	K: 	name	 V: 	洞穴	
+[00:00:07]: 	K: 	numrandom_set_pieces	 V: 	0	
+[00:00:07]: 	K: 	override_level_string	 V: 	false	
+[00:00:07]: 	K: 	overrides	 V: 	table: 0000000016A214A0	
+[00:00:07]: 		K: 	atriumgate	 V: 	default	
+[00:00:07]: 		K: 	banana	 V: 	default	
+[00:00:07]: 		K: 	basicresource_regrowth	 V: 	always	
+[00:00:07]: 		K: 	bats	 V: 	default	
+[00:00:07]: 		K: 	bats_setting	 V: 	default	
+[00:00:07]: 		K: 	beefaloheat	 V: 	default	
+[00:00:07]: 		K: 	berrybush	 V: 	default	
+[00:00:07]: 		K: 	boons	 V: 	default	
+[00:00:07]: 		K: 	branching	 V: 	least	
+[00:00:07]: 		K: 	brightmarecreatures	 V: 	default	
+[00:00:07]: 		K: 	bunnymen	 V: 	default	
+[00:00:07]: 		K: 	bunnymen_setting	 V: 	default	
+[00:00:07]: 		K: 	cave_ponds	 V: 	default	
+[00:00:07]: 		K: 	cave_spiders	 V: 	default	
+[00:00:07]: 		K: 	cavelight	 V: 	default	
+[00:00:07]: 		K: 	chess	 V: 	default	
+[00:00:07]: 		K: 	crow_carnival	 V: 	default	
+[00:00:07]: 		K: 	darkness	 V: 	nonlethal	
+[00:00:07]: 		K: 	day	 V: 	default	
+[00:00:07]: 		K: 	dropeverythingondespawn	 V: 	default	
+[00:00:07]: 		K: 	dustmoths	 V: 	default	
+[00:00:07]: 		K: 	earthquakes	 V: 	default	
+[00:00:07]: 		K: 	extrastartingitems	 V: 	5	
+[00:00:07]: 		K: 	fern	 V: 	default	
+[00:00:07]: 		K: 	fissure	 V: 	default	
+[00:00:07]: 		K: 	flint	 V: 	default	
+[00:00:07]: 		K: 	flower_cave	 V: 	default	
+[00:00:07]: 		K: 	flower_cave_regrowth	 V: 	default	
+[00:00:07]: 		K: 	fruitfly	 V: 	default	
+[00:00:07]: 		K: 	ghostenabled	 V: 	always	
+[00:00:07]: 		K: 	ghostsanitydrain	 V: 	none	
+[00:00:07]: 		K: 	grass	 V: 	default	
+[00:00:07]: 		K: 	grassgekkos	 V: 	default	
+[00:00:07]: 		K: 	hallowed_nights	 V: 	default	
+[00:00:07]: 		K: 	healthpenalty	 V: 	always	
+[00:00:07]: 		K: 	hunger	 V: 	nonlethal	
+[00:00:07]: 		K: 	krampus	 V: 	default	
+[00:00:07]: 		K: 	layout_mode	 V: 	RestrictNodesByKey	
+[00:00:07]: 		K: 	lessdamagetaken	 V: 	always	
+[00:00:07]: 		K: 	lichen	 V: 	default	
+[00:00:07]: 		K: 	liefs	 V: 	default	
+[00:00:07]: 		K: 	lightflier_flower_regrowth	 V: 	default	
+[00:00:07]: 		K: 	lightfliers	 V: 	default	
+[00:00:07]: 		K: 	loop	 V: 	default	
+[00:00:07]: 		K: 	marshbush	 V: 	default	
+[00:00:07]: 		K: 	merms	 V: 	default	
+[00:00:07]: 		K: 	molebats	 V: 	default	
+[00:00:07]: 		K: 	moles_setting	 V: 	default	
+[00:00:07]: 		K: 	monkey	 V: 	default	
+[00:00:07]: 		K: 	monkey_setting	 V: 	default	
+[00:00:07]: 		K: 	mushgnome	 V: 	default	
+[00:00:07]: 		K: 	mushroom	 V: 	default	
+[00:00:07]: 		K: 	mushtree	 V: 	default	
+[00:00:07]: 		K: 	mushtree_moon_regrowth	 V: 	default	
+[00:00:07]: 		K: 	mushtree_regrowth	 V: 	default	
+[00:00:07]: 		K: 	nightmarecreatures	 V: 	default	
+[00:00:07]: 		K: 	pigs_setting	 V: 	default	
+[00:00:07]: 		K: 	portalresurection	 V: 	always	
+[00:00:07]: 		K: 	prefabswaps_start	 V: 	default	
+[00:00:07]: 		K: 	reeds	 V: 	default	
+[00:00:07]: 		K: 	regrowth	 V: 	default	
+[00:00:07]: 		K: 	resettime	 V: 	none	
+[00:00:07]: 		K: 	roads	 V: 	never	
+[00:00:07]: 		K: 	rock	 V: 	default	
+[00:00:07]: 		K: 	rocky	 V: 	default	
+[00:00:07]: 		K: 	rocky_setting	 V: 	default	
+[00:00:07]: 		K: 	sapling	 V: 	default	
+[00:00:07]: 		K: 	season_start	 V: 	default	
+[00:00:07]: 		K: 	seasonalstartingitems	 V: 	default	
+[00:00:07]: 		K: 	shadowcreatures	 V: 	default	
+[00:00:07]: 		K: 	slurper	 V: 	default	
+[00:00:07]: 		K: 	slurtles	 V: 	default	
+[00:00:07]: 		K: 	slurtles_setting	 V: 	default	
+[00:00:07]: 		K: 	snurtles	 V: 	default	
+[00:00:07]: 		K: 	spawnmode	 V: 	fixed	
+[00:00:07]: 		K: 	spawnprotection	 V: 	default	
+[00:00:07]: 		K: 	specialevent	 V: 	default	
+[00:00:07]: 		K: 	spider_dropper	 V: 	default	
+[00:00:07]: 		K: 	spider_hider	 V: 	default	
+[00:00:07]: 		K: 	spider_spitter	 V: 	default	
+[00:00:07]: 		K: 	spider_warriors	 V: 	default	
+[00:00:07]: 		K: 	spiderqueen	 V: 	default	
+[00:00:07]: 		K: 	spiders	 V: 	default	
+[00:00:07]: 		K: 	spiders_setting	 V: 	default	
+[00:00:07]: 		K: 	start_location	 V: 	caves	
+[00:00:07]: 		K: 	task_set	 V: 	cave_default	
+[00:00:07]: 		K: 	temperaturedamage	 V: 	nonlethal	
+[00:00:07]: 		K: 	tentacles	 V: 	default	
+[00:00:07]: 		K: 	toadstool	 V: 	default	
+[00:00:07]: 		K: 	touchstone	 V: 	default	
+[00:00:07]: 		K: 	trees	 V: 	default	
+[00:00:07]: 		K: 	weather	 V: 	default	
+[00:00:07]: 		K: 	winters_feast	 V: 	default	
+[00:00:07]: 		K: 	world_size	 V: 	default	
+[00:00:07]: 		K: 	wormattacks	 V: 	default	
+[00:00:07]: 		K: 	wormhole_prefab	 V: 	tentacle_pillar	
+[00:00:07]: 		K: 	wormlights	 V: 	default	
+[00:00:07]: 		K: 	worms	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_beefalo	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_carrat	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_catcoon	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_gobbler	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_pig	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_varg	 V: 	default	
+[00:00:07]: 	K: 	required_prefabs	 V: 	table: 0000000016A21900	
+[00:00:07]: 		K: 	1	 V: 	multiplayer_portal	
+[00:00:07]: 	K: 	settings_desc	 V: 	探查洞穴…… 一起！	
+[00:00:07]: 	K: 	settings_id	 V: 	DST_CAVE	
+[00:00:07]: 	K: 	settings_name	 V: 	洞穴	
+[00:00:07]: 	K: 	substitutes	 V: 	table: 0000000016A21D60	
+[00:00:07]: 	K: 	version	 V: 	4	
+[00:00:07]: 	K: 	worldgen_desc	 V: 	探查洞穴…… 一起！	
+[00:00:07]: 	K: 	worldgen_id	 V: 	DST_CAVE	
+[00:00:07]: 	K: 	worldgen_name	 V: 	洞穴	
+[00:00:07]: Loaded and applied level data override from ../leveldataoverride.lua	
+[00:00:07]: Overwriting savedata with level data file.	
+[00:00:07]: Not applying world gen overrides.	
+[00:00:07]: Collecting garbage...
+[00:00:07]: lua_gc took 0.06 seconds
+[00:00:07]: ~ShardLuaProxy()
+[00:00:07]: ~cEventLeaderboardProxy()
+[00:00:07]: ~ItemServerLuaProxy()
+[00:00:07]: ~InventoryLuaProxy()
+[00:00:07]: ~NetworkLuaProxy()
+[00:00:07]: ~SimLuaProxy()
+[00:00:07]: FilesExistAsyncThread aborted.
+[00:00:07]: ... FilesExistAsyncThread complete
+[00:00:07]: lua_close took 0.06 seconds
+[00:00:07]: ReleaseAll
+[00:00:07]: ReleaseAll Finished
+[00:00:07]: cGame::StartPlaying
+[00:00:07]: AppVersion::GetArchitecture() x64
+[00:00:07]: LOADING LUA
+[00:00:07]: DoLuaFile scripts/main.lua
+[00:00:07]: DoLuaFile loading buffer scripts/main.lua
+[00:00:07]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:08]:   taskgrouplist:	default	联机版	
+[00:00:08]:   taskgrouplist:	classic	经典	
+[00:00:08]:   taskgrouplist:	cave_default	地下	
+[00:00:08]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:08]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:09]: Running main.lua
+	
+[00:00:09]: loaded modindex	
+[00:00:09]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:09]: SUCCESS: Loaded modoverrides.lua	
+[00:00:09]: modoverrides.lua enabling workshop-856487758	
+[00:00:09]: modoverrides.lua enabling workshop-1221281706	
+[00:00:09]: modoverrides.lua enabling workshop-347079953	
+[00:00:09]: modoverrides.lua enabling workshop-786556008	
+[00:00:09]: modoverrides.lua enabling workshop-375850593	
+[00:00:09]: modoverrides.lua enabling workshop-1207269058	
+[00:00:09]: modoverrides.lua enabling workshop-1185229307	
+[00:00:09]: modoverrides.lua enabling workshop-623749604	
+[00:00:09]: modoverrides.lua enabling workshop-666155465	
+[00:00:09]: modoverrides.lua enabling workshop-661253977	
+[00:00:09]: modoverrides.lua enabling workshop-569043634	
+[00:00:09]: modoverrides.lua enabling workshop-378160973	
+[00:00:09]: modoverrides.lua enabling workshop-375859599	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-661253977	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-786556008	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-856487758	
+[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-623749604	
+[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1221281706	
+[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-375859599	
+[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-347079953	
+[00:00:09]: Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-375850593	
+[00:00:09]: Loading mod: workshop-375850593 (Extra Equip Slots) Version:1.8.0	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-661253977	
+[00:00:09]: Loading mod: workshop-661253977 ( Don't Drop Everything) Version:11:15 2020-08-10	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-786556008	
+[00:00:09]: Loading mod: workshop-786556008 (45 Inventory Slots) Version:1.4.1	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-856487758	
+[00:00:09]: Loading mod: workshop-856487758 (Quick Drop) Version:1.1	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[00:00:09]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.16	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
+[00:00:09]: Loading mod: workshop-1185229307 (史诗般的血量条) Version:61	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-623749604	
+[00:00:09]: Loading mod: workshop-623749604 (Storeroom) Version:2.6a	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[00:00:09]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.58	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-1221281706	
+[00:00:09]: Loading mod: workshop-1221281706 (The Forge Item Pack) Version:1.1.11	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:09]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.4	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:00:09]: Loading mod: workshop-375859599 (Health Info) Version:2.2.03	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-569043634	
+[00:00:09]: Loading mod: workshop-569043634 (Campfire Respawn) Version:1.6.8.1	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-856487758	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1221281706	
+[00:00:09]: Overriding mod workshop-1221281706's option WOVENGARLAND_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option BACONTOME_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option LIVINGSTAFF_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option WOVENGARLAND_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option INFERNALSTAFF_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option CRYSTALTIARA_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option BACONTOME_DURABILITY_SPECIAL with value 5	
+[00:00:09]: Overriding mod workshop-1221281706's option NOXHELM_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option MOLTENDARTS_ALT_DAMAGE with value 50	
+[00:00:09]: Overriding mod workshop-1221281706's option FEATHEREDWREATH_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option Spiral Spear options with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option MOLTENDARTS_DAMAGE with value 25	
+[00:00:09]: Overriding mod workshop-1221281706's option SPIRALSPEAR_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option INFERNALSTAFF_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option BARBEDHELM_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option Living Staff options with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option BLOSSOMEDWREATH_HEAL_LIMIT with value 0.8	
+[00:00:09]: Overriding mod workshop-1221281706's option PITHPIKE_DAMAGE with value 25	
+[00:00:09]: Overriding mod workshop-1221281706's option BARBEDHELM_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option Armors options with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option STEADFASTARMOR_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option DARTS_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option SPLINTMAIL_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option SPLINTMAIL_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option ARMOR_HPPETMASTERY_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option DARTS_DURABILITY_NORMAL with value 1	
+[00:00:09]: Overriding mod workshop-1221281706's option SPIRALSPEAR_DURABILITY_SPECIAL with value 5	
+[00:00:09]: Overriding mod workshop-1221281706's option SPIRALSPEAR_DURABILITY_NORMAL with value 1	
+[00:00:09]: Overriding mod workshop-1221281706's option DARTS_COOLDOWN with value 18	
+[00:00:09]: Overriding mod workshop-1221281706's option PITHPIKE_COOLDOWN with value 12	
+[00:00:09]: Overriding mod workshop-1221281706's option SPIRALSPEAR_DAMAGE with value 30	
+[00:00:09]: Overriding mod workshop-1221281706's option BACONTOME_COOLDOWN with value 18	
+[00:00:09]: Overriding mod workshop-1221281706's option FORGE_WOODARMOR_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option SPIRALSPEAR_COOLDOWN with value 12	
+[00:00:09]: Overriding mod workshop-1221281706's option SPIRALSPEAR_ALT_DAMAGE with value 75	
+[00:00:09]: Overriding mod workshop-1221281706's option LIVINGSTAFF_DURATION with value 10	
+[00:00:09]: Overriding mod workshop-1221281706's option SILKENARMOR_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option CLAIRVOYANTCROWN_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option Hats options with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option FORGINGHAMMER_ALT_DAMAGE with value 30	
+[00:00:09]: Overriding mod workshop-1221281706's option ARMOR_HPPETMASTERY_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option PREVENT_COMPAGNION_ATTACK with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option FLOWERHEADBAND_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option Tome of Beconing options with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option FLOWERHEADBAND_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option BLOSSOMEDWREATH_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option PITHPIKE_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option REEDTUNIC_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option REEDTUNIC_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option Pith Pike options with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option ARMOR_HPRECHARGER_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option Global options with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option SILKENARMOR_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option PITHPIKE_DURABILITY_SPECIAL with value 5	
+[00:00:09]: Overriding mod workshop-1221281706's option INFERNALSTAFF_ALT_DAMAGE with value 200	
+[00:00:09]: Overriding mod workshop-1221281706's option Infernalstaff options with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option RESPLENDENTNOXHELM_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option CRYSTALTIARA_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option Blacksmith Edge options with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option PITHPIKE_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option STEADFASTARMOR_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option FEATHEREDTUNIC_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option ARMOR_HPDAMAGER_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option FEATHEREDWREATH_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option PITHPIKE_ALT_DAMAGE with value 25	
+[00:00:09]: Overriding mod workshop-1221281706's option MOLTENDARTS_DURABILITY_SPECIAL with value 5	
+[00:00:09]: Overriding mod workshop-1221281706's option NOXHELM_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option BACONTOME_DAMAGE with value 15	
+[00:00:09]: Overriding mod workshop-1221281706's option PITHPIKE_DURABILITY_NORMAL with value 1	
+[00:00:09]: Overriding mod workshop-1221281706's option HEARTHSFIRE_CRYSTALS_DURABILITY_SPECIAL with value 5	
+[00:00:09]: Overriding mod workshop-1221281706's option Moltendarts options with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option ARMOR_HPDAMAGER_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option JAGGEDARMOR_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option BLOSSOMEDWREATH_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option LIVINGSTAFF_DAMAGE with value 10	
+[00:00:09]: Overriding mod workshop-1221281706's option ARMOR_HPRECHARGER_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option MOLTENDARTS_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option BLACKSMITH_EDGE_DAMAGE with value 30	
+[00:00:09]: Overriding mod workshop-1221281706's option MOLTENDARTS_COOLDOWN with value 18	
+[00:00:09]: Overriding mod workshop-1221281706's option RESPLENDENTNOXHELM_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option LIVINGSTAFF_RATE with value 6	
+[00:00:09]: Overriding mod workshop-1221281706's option LIVINGSTAFF_DURABILITY_SPECIAL with value 5	
+[00:00:09]: Overriding mod workshop-1221281706's option LIVINGSTAFF_DURABILITY_NORMAL with value 1	
+[00:00:09]: Overriding mod workshop-1221281706's option LIVINGSTAFF_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option FORGING_HAMMER_DURABILITY_SPECIAL with value 5	
+[00:00:09]: Overriding mod workshop-1221281706's option MOLTENDARTS_DURABILITY_NORMAL with value 1	
+[00:00:09]: Overriding mod workshop-1221281706's option LIVINGSTAFF_COOLDOWN with value 18	
+[00:00:09]: Overriding mod workshop-1221281706's option Fire golem options with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option JAGGEDARMOR_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option ARMOR_HPEXTRAHEAVY_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option FORGING_HAMMER_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option INFERNALSTAFF_DURABILITY_NORMAL with value 1	
+[00:00:09]: Overriding mod workshop-1221281706's option INFERNALSTAFF_DAMAGE with value 25	
+[00:00:09]: Overriding mod workshop-1221281706's option INFERNALSTAFF_COOLDOWN with value 24	
+[00:00:09]: Overriding mod workshop-1221281706's option FORGE_WOODARMOR_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option NORMAL_GAME_BOOSTED with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option BLOSSOMEDWREATH_HEAL_RATE with value 1	
+[00:00:09]: Overriding mod workshop-1221281706's option HEARTHSFIRE_CRYSTALS_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option HEARTHSFIRE_CRYSTALS_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option BLACKSMITH_EDGE_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option DARTS_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option MOLTENDARTS_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option DARTS_DURABILITY_SPECIAL with value 5	
+[00:00:09]: Overriding mod workshop-1221281706's option HEARTHSFIRE_CRYSTALS_ALT_DAMAGE with value 100	
+[00:00:09]: Overriding mod workshop-1221281706's option HEARTHSFIRE_CRYSTALS_ALT_DAMAGE with value 100	
+[00:00:09]: Overriding mod workshop-1221281706's option GOLEM_DAMAGE with value 25	
+[00:00:09]: Overriding mod workshop-1221281706's option Forging Hammer options with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option FORGING_HAMMER_DURABILITY_NORMAL with value 1	
+[00:00:09]: Overriding mod workshop-1221281706's option FORGING_HAMMER_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option CLAIRVOYANTCROWN_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option INFERNALSTAFF_DURABILITY_SPECIAL with value 5	
+[00:00:09]: Overriding mod workshop-1221281706's option FORGING_HAMMER_COOLDOWN with value 18	
+[00:00:09]: Overriding mod workshop-1221281706's option SPIRALSPEAR_DURABILITY with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option BLACKSMITH_EDGE_DURABILITY_NORMAL with value 1	
+[00:00:09]: Overriding mod workshop-1221281706's option DARTS_DAMAGE with value 20	
+[00:00:09]: Overriding mod workshop-1221281706's option BLACKSMITH_EDGE_DURABILITY_SPECIAL with value 5	
+[00:00:09]: Overriding mod workshop-1221281706's option BLACKSMITH_EDGE_HELMSPLIT_DAMAGE with value 100	
+[00:00:09]: Overriding mod workshop-1221281706's option FEATHEREDTUNIC_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option BLACKSMITH_EDGE_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option BLACKSMITH_EDGE_COOLDOWN with value 12	
+[00:00:09]: Overriding mod workshop-1221281706's option ARMOR_HPEXTRAHEAVY_DISABLE_RECIPE with value false	
+[00:00:09]: Overriding mod workshop-1221281706's option FORGINGHAMMER_DAMAGE with value 20	
+[00:00:09]: Overriding mod workshop-1221281706's option Hearthsfire Crystals options with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option HEARTHSFIRE_CRYSTALS_DAMAGE with value 15	
+[00:00:09]: Overriding mod workshop-1221281706's option HEARTHSFIRE_CRYSTALS_COOLDOWN with value 5	
+[00:00:09]: Overriding mod workshop-1221281706's option Darts options with value 0	
+[00:00:09]: Overriding mod workshop-1221281706's option BACONTOME_DURABILITY with value 0	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
+[00:00:09]: Overriding mod workshop-347079953's option DFV_Language with value EN	
+[00:00:09]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-786556008	
+[00:00:09]: Overriding mod workshop-786556008's option EXTRASLOT with value 0	
+[00:00:09]: Overriding mod workshop-786556008's option ENABLEBACKPACK with value false	
+[00:00:09]: Overriding mod workshop-786556008's option INVENTORYSIZE with value 45	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:09]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:09]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:09]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:09]: Overriding mod workshop-1185229307's option WETNESS_METER with value false	
+[00:00:09]: Overriding mod workshop-1185229307's option NOEPIC with value false	
+[00:00:09]: Overriding mod workshop-1185229307's option FRAME_PHASES with value true	
+[00:00:09]: Overriding mod workshop-1185229307's option DAMAGE_NUMBERS with value true	
+[00:00:09]: Overriding mod workshop-1185229307's option NONOEPIC with value false	
+[00:00:09]: Overriding mod workshop-1185229307's option DAMAGE_RESISTANCE with value true	
+[00:00:09]: Overriding mod workshop-1185229307's option HORIZONTAL_OFFSET with value 0	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-623749604	
+[00:00:09]: Overriding mod workshop-623749604's option FoodSpoilage with value 1	
+[00:00:09]: Overriding mod workshop-623749604's option Destroyable with value DestroyByAll	
+[00:00:09]: Overriding mod workshop-623749604's option Slots with value 80	
+[00:00:09]: Overriding mod workshop-623749604's option Position with value Center	
+[00:00:09]: Overriding mod workshop-623749604's option Language with value En	
+[00:00:09]: Overriding mod workshop-623749604's option Craft with value Normal	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:09]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:00:09]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:09]: Overriding mod workshop-666155465's option display_hp with value -1	
+[00:00:09]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:00:09]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:09]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:09]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:00:09]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:09]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:00:09]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-661253977	
+[00:00:09]: Overriding mod workshop-661253977's option nillots with value 0	
+[00:00:09]: Overriding mod workshop-661253977's option baodiao with value 1	
+[00:00:09]: Overriding mod workshop-661253977's option amudiao with value true	
+[00:00:09]: Overriding mod workshop-661253977's option zbdiao with value true	
+[00:00:09]: Overriding mod workshop-661253977's option kong with value 0	
+[00:00:09]: Overriding mod workshop-661253977's option rendiao with value 2	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-569043634	
+[00:00:09]: Overriding mod workshop-569043634's option ReturnHotkey_Mode with value Closest	
+[00:00:09]: Overriding mod workshop-569043634's option campfire with value Enabled	
+[00:00:09]: Overriding mod workshop-569043634's option Health_Penalty_Generic with value Unchanged	
+[00:00:09]: Overriding mod workshop-569043634's option skeleton with value Unchanged	
+[00:00:09]: Overriding mod workshop-569043634's option NoPlayerSkeletons with value Unchanged	
+[00:00:09]: Overriding mod workshop-569043634's option Health_Respawn_Amount with value Unchanged	
+[00:00:09]: Overriding mod workshop-569043634's option Health_Penalty_Maximum with value Unchanged	
+[00:00:09]: Overriding mod workshop-569043634's option reviver with value Unchanged	
+[00:00:09]: Overriding mod workshop-569043634's option KeepInventory with value Unchanged	
+[00:00:09]: Overriding mod workshop-569043634's option Health_Penalty_Meat_Effigy with value Unchanged	
+[00:00:09]: Overriding mod workshop-569043634's option coldfire with value Enabled	
+[00:00:09]: Overriding mod workshop-569043634's option SpawnProtection with value Unchanged	
+[00:00:09]: Overriding mod workshop-569043634's option Health_Penalty_Portal with value Unchanged	
+[00:00:09]: Overriding mod workshop-569043634's option firepit with value Enabled	
+[00:00:09]: Overriding mod workshop-569043634's option usetags with value Unchanged	
+[00:00:09]: Overriding mod workshop-569043634's option coldfirepit with value Enabled	
+[00:00:09]: Overriding mod workshop-569043634's option ReturnHotkey with value Unchanged	
+[00:00:09]: Overriding mod workshop-569043634's option KillMe with value Unchanged	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:09]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 3	
+[00:00:09]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:09]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:09]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:09]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:09]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option send_unknwon_prefabs with value false	
+[00:00:09]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:09]: Mod: workshop-1185229307 (史诗般的血量条)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-1185229307 (史诗般的血量条)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-1185229307 (史诗般的血量条)	Loading modmain.lua	
+[00:00:09]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modmain.lua	
+[00:00:09]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-347079953 (Display food values)	Loading modmain.lua	
+[00:00:09]: Mod: workshop-786556008 (45 Inventory Slots)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-786556008 (45 Inventory Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-786556008 (45 Inventory Slots)	Loading modmain.lua	
+[00:00:09]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[00:00:09]: ShowMe version:	0.58	
+[00:00:09]: show_food_units	-1	-1	-1	
+[00:00:09]: show_uses	-1	-1	-1	
+[00:00:09]: Detected language for ShowMe: 	auto	zh	
+[00:00:09]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:00:09]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:00:09]: Mod: workshop-1221281706 (The Forge Item Pack)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-1221281706 (The Forge Item Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-1221281706 (The Forge Item Pack)	Loading modmain.lua	
+[00:00:09]: modimport: ../mods/workshop-1221281706/scripts/mod_main.lua	
+[00:00:09]: Warning: function AddRecipeTab in modmain is deprecated.	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	forgedarts	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	forginghammer	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	riledlucy	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	pithpike	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	livingstaff	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	moltendarts	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	infernalstaff	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	spiralspear	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	bacontome	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	hearthsfire_crystals	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	blacksmith_edge	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	reedtunic	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	featheredtunic	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	forge_woodarmor	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	jaggedarmor	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	silkenarmor	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	splintmail	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	steadfastarmor	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	armor_hpextraheavy	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	armor_hpdamager	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	armor_hprecharger	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	armor_hppetmastery	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	barbedhelm	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	noxhelm	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	resplendentnoxhelm	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	featheredwreath	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	crystaltiara	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	flowerheadband	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	wovengarland	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	clairvoyantcrown	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	blossomedwreath	
+[00:00:09]: Mod: workshop-623749604 (Storeroom)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-623749604 (Storeroom)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-623749604 (Storeroom)	Loading modmain.lua	
+[00:00:09]: Warning: function AddRecipe in modmain is deprecated, please use AddRecipe2. Recipe name:	storeroom	
+[00:00:09]: ----- STOREROOM DEBUG ----- 	
+[00:00:09]: slots = 80	
+[00:00:09]: perish = 1	
+[00:00:09]: recipe: cutstone = 20 marble = 4 boards = 20	
+[00:00:09]: widget: widgetanimbank = ui_chest_5x16 widgetpos = 	(0.00, 150.00, 0.00)	 slot_x = 15 slot_y = 4 posslot_x = 91 posslot_y = 42	
+[00:00:09]: Mod: workshop-856487758 (Quick Drop)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-856487758 (Quick Drop)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-856487758 (Quick Drop)	Loading modmain.lua	
+[00:00:09]: Mod: workshop-569043634 (Campfire Respawn)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-569043634 (Campfire Respawn)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-569043634 (Campfire Respawn)	Loading modmain.lua	
+[00:00:09]: Mod: workshop-661253977 ( Don't Drop Everything)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-661253977 ( Don't Drop Everything)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-661253977 ( Don't Drop Everything)	Loading modmain.lua	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-661253977	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-786556008	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-856487758	
+[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-623749604	
+[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1221281706	
+[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-375859599	
+[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
+[00:00:09]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[00:00:09]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:09]: LOADING LUA SUCCESS
+[00:00:09]: Registering Server mod namespace "workshop-1207269058"
+[00:00:09]: Registering Server mod namespace "food item"
+[00:00:09]: Registering Server mod namespace "showme"
+[00:00:09]: Registering Server mod namespace "showmeshint"
+[00:00:09]: Registering Server mod namespace "workshop-378160973"
+[00:00:09]: PlayerDeaths could not load morgue	
+[00:00:09]: PlayerHistory could not load player_history	
+[00:00:09]: ServerPreferences could not load server_preferences	
+[00:00:09]: ConsoleScreenSettings could not load consolescreen	
+[00:00:09]: bloom_enabled	true	
+[00:00:09]: OnFilesLoaded()	
+[00:00:09]: OnUpdatePurchaseStateComplete	
+[00:00:09]: SUCCESS: Loaded modoverrides.lua	
+[00:00:09]: Found a level data override file with these contents:	
+[00:00:09]: 	K: 	background_node_range	 V: 	table: 000000001A871000	
+[00:00:09]: 		K: 	1	 V: 	0	
+[00:00:09]: 		K: 	2	 V: 	1	
+[00:00:09]: 	K: 	custom_settings_desc	 V: 		
+[00:00:09]: 	K: 	custom_settings_id	 V: 	CUSTOM_ALWAYS USE IT	
+[00:00:09]: 	K: 	custom_settings_name	 V: 	always use it	
+[00:00:09]: 	K: 	custom_worldgen_desc	 V: 		
+[00:00:09]: 	K: 	custom_worldgen_id	 V: 	CUSTOM_ALWAYS USE IT	
+[00:00:09]: 	K: 	custom_worldgen_name	 V: 	always use it	
+[00:00:09]: 	K: 	desc	 V: 	探查洞穴…… 一起！	
+[00:00:09]: 	K: 	hideminimap	 V: 	false	
+[00:00:09]: 	K: 	id	 V: 	DST_CAVE	
+[00:00:09]: 	K: 	location	 V: 	cave	
+[00:00:09]: 	K: 	max_playlist_position	 V: 	999	
+[00:00:09]: 	K: 	min_playlist_position	 V: 	0	
+[00:00:09]: 	K: 	name	 V: 	洞穴	
+[00:00:09]: 	K: 	numrandom_set_pieces	 V: 	0	
+[00:00:09]: 	K: 	override_level_string	 V: 	false	
+[00:00:09]: 	K: 	overrides	 V: 	table: 000000001A8706F0	
+[00:00:09]: 		K: 	atriumgate	 V: 	default	
+[00:00:09]: 		K: 	banana	 V: 	default	
+[00:00:09]: 		K: 	basicresource_regrowth	 V: 	always	
+[00:00:09]: 		K: 	bats	 V: 	default	
+[00:00:09]: 		K: 	bats_setting	 V: 	default	
+[00:00:09]: 		K: 	beefaloheat	 V: 	default	
+[00:00:09]: 		K: 	berrybush	 V: 	default	
+[00:00:09]: 		K: 	boons	 V: 	default	
+[00:00:09]: 		K: 	branching	 V: 	least	
+[00:00:09]: 		K: 	brightmarecreatures	 V: 	default	
+[00:00:09]: 		K: 	bunnymen	 V: 	default	
+[00:00:09]: 		K: 	bunnymen_setting	 V: 	default	
+[00:00:09]: 		K: 	cave_ponds	 V: 	default	
+[00:00:09]: 		K: 	cave_spiders	 V: 	default	
+[00:00:09]: 		K: 	cavelight	 V: 	default	
+[00:00:09]: 		K: 	chess	 V: 	default	
+[00:00:09]: 		K: 	crow_carnival	 V: 	default	
+[00:00:09]: 		K: 	darkness	 V: 	nonlethal	
+[00:00:09]: 		K: 	day	 V: 	default	
+[00:00:09]: 		K: 	dropeverythingondespawn	 V: 	default	
+[00:00:09]: 		K: 	dustmoths	 V: 	default	
+[00:00:09]: 		K: 	earthquakes	 V: 	default	
+[00:00:09]: 		K: 	extrastartingitems	 V: 	5	
+[00:00:09]: 		K: 	fern	 V: 	default	
+[00:00:09]: 		K: 	fissure	 V: 	default	
+[00:00:09]: 		K: 	flint	 V: 	default	
+[00:00:09]: 		K: 	flower_cave	 V: 	default	
+[00:00:09]: 		K: 	flower_cave_regrowth	 V: 	default	
+[00:00:09]: 		K: 	fruitfly	 V: 	default	
+[00:00:09]: 		K: 	ghostenabled	 V: 	always	
+[00:00:09]: 		K: 	ghostsanitydrain	 V: 	none	
+[00:00:09]: 		K: 	grass	 V: 	default	
+[00:00:09]: 		K: 	grassgekkos	 V: 	default	
+[00:00:09]: 		K: 	hallowed_nights	 V: 	default	
+[00:00:09]: 		K: 	healthpenalty	 V: 	always	
+[00:00:09]: 		K: 	hunger	 V: 	nonlethal	
+[00:00:09]: 		K: 	krampus	 V: 	default	
+[00:00:09]: 		K: 	layout_mode	 V: 	RestrictNodesByKey	
+[00:00:09]: 		K: 	lessdamagetaken	 V: 	always	
+[00:00:09]: 		K: 	lichen	 V: 	default	
+[00:00:09]: 		K: 	liefs	 V: 	default	
+[00:00:09]: 		K: 	lightflier_flower_regrowth	 V: 	default	
+[00:00:09]: 		K: 	lightfliers	 V: 	default	
+[00:00:09]: 		K: 	loop	 V: 	default	
+[00:00:09]: 		K: 	marshbush	 V: 	default	
+[00:00:09]: 		K: 	merms	 V: 	default	
+[00:00:09]: 		K: 	molebats	 V: 	default	
+[00:00:09]: 		K: 	moles_setting	 V: 	default	
+[00:00:09]: 		K: 	monkey	 V: 	default	
+[00:00:09]: 		K: 	monkey_setting	 V: 	default	
+[00:00:09]: 		K: 	mushgnome	 V: 	default	
+[00:00:09]: 		K: 	mushroom	 V: 	default	
+[00:00:09]: 		K: 	mushtree	 V: 	default	
+[00:00:09]: 		K: 	mushtree_moon_regrowth	 V: 	default	
+[00:00:09]: 		K: 	mushtree_regrowth	 V: 	default	
+[00:00:09]: 		K: 	nightmarecreatures	 V: 	default	
+[00:00:09]: 		K: 	pigs_setting	 V: 	default	
+[00:00:09]: 		K: 	portalresurection	 V: 	always	
+[00:00:09]: 		K: 	prefabswaps_start	 V: 	default	
+[00:00:09]: 		K: 	reeds	 V: 	default	
+[00:00:09]: 		K: 	regrowth	 V: 	default	
+[00:00:09]: 		K: 	resettime	 V: 	none	
+[00:00:09]: 		K: 	roads	 V: 	never	
+[00:00:09]: 		K: 	rock	 V: 	default	
+[00:00:09]: 		K: 	rocky	 V: 	default	
+[00:00:09]: 		K: 	rocky_setting	 V: 	default	
+[00:00:09]: 		K: 	sapling	 V: 	default	
+[00:00:09]: 		K: 	season_start	 V: 	default	
+[00:00:09]: 		K: 	seasonalstartingitems	 V: 	default	
+[00:00:09]: 		K: 	shadowcreatures	 V: 	default	
+[00:00:09]: 		K: 	slurper	 V: 	default	
+[00:00:09]: 		K: 	slurtles	 V: 	default	
+[00:00:09]: 		K: 	slurtles_setting	 V: 	default	
+[00:00:09]: 		K: 	snurtles	 V: 	default	
+[00:00:09]: 		K: 	spawnmode	 V: 	fixed	
+[00:00:09]: 		K: 	spawnprotection	 V: 	default	
+[00:00:09]: 		K: 	specialevent	 V: 	default	
+[00:00:09]: 		K: 	spider_dropper	 V: 	default	
+[00:00:09]: 		K: 	spider_hider	 V: 	default	
+[00:00:09]: 		K: 	spider_spitter	 V: 	default	
+[00:00:09]: 		K: 	spider_warriors	 V: 	default	
+[00:00:09]: 		K: 	spiderqueen	 V: 	default	
+[00:00:09]: 		K: 	spiders	 V: 	default	
+[00:00:09]: 		K: 	spiders_setting	 V: 	default	
+[00:00:09]: 		K: 	start_location	 V: 	caves	
+[00:00:09]: 		K: 	task_set	 V: 	cave_default	
+[00:00:09]: 		K: 	temperaturedamage	 V: 	nonlethal	
+[00:00:09]: 		K: 	tentacles	 V: 	default	
+[00:00:09]: 		K: 	toadstool	 V: 	default	
+[00:00:09]: 		K: 	touchstone	 V: 	default	
+[00:00:09]: 		K: 	trees	 V: 	default	
+[00:00:09]: 		K: 	weather	 V: 	default	
+[00:00:09]: 		K: 	winters_feast	 V: 	default	
+[00:00:09]: 		K: 	world_size	 V: 	default	
+[00:00:09]: 		K: 	wormattacks	 V: 	default	
+[00:00:09]: 		K: 	wormhole_prefab	 V: 	tentacle_pillar	
+[00:00:09]: 		K: 	wormlights	 V: 	default	
+[00:00:09]: 		K: 	worms	 V: 	default	
+[00:00:09]: 		K: 	year_of_the_beefalo	 V: 	default	
+[00:00:09]: 		K: 	year_of_the_carrat	 V: 	default	
+[00:00:09]: 		K: 	year_of_the_catcoon	 V: 	default	
+[00:00:09]: 		K: 	year_of_the_gobbler	 V: 	default	
+[00:00:09]: 		K: 	year_of_the_pig	 V: 	default	
+[00:00:09]: 		K: 	year_of_the_varg	 V: 	default	
+[00:00:09]: 	K: 	required_prefabs	 V: 	table: 000000001A870D80	
+[00:00:09]: 		K: 	1	 V: 	multiplayer_portal	
+[00:00:09]: 	K: 	settings_desc	 V: 	探查洞穴…… 一起！	
+[00:00:09]: 	K: 	settings_id	 V: 	DST_CAVE	
+[00:00:09]: 	K: 	settings_name	 V: 	洞穴	
+[00:00:09]: 	K: 	substitutes	 V: 	table: 000000001A870830	
+[00:00:09]: 	K: 	version	 V: 	4	
+[00:00:09]: 	K: 	worldgen_desc	 V: 	探查洞穴…… 一起！	
+[00:00:09]: 	K: 	worldgen_id	 V: 	DST_CAVE	
+[00:00:09]: 	K: 	worldgen_name	 V: 	洞穴	
+[00:00:09]: Loaded and applied level data override from ../leveldataoverride.lua	
+[00:00:09]: Overwriting savedata with level data file.	
+[00:00:09]: Not applying world gen overrides.	
+[00:00:09]: [IPC] Signal 'DST_Secondary_WorldGen' opened  #00000000000008A4
+[00:00:09]: [IPC] Sending signal... #00000000000008A4
+[00:00:09]: WorldSim::SimThread::SimThread()
+[00:00:09]: ABOUT TO INSTALL STACKTRACE
+[00:00:09]: DoLuaFile scripts/stacktrace.lua
+[00:00:09]: DoLuaFile loading buffer scripts/stacktrace.lua
+[00:00:09]: INSTALLED STACKTRACE
+[00:00:09]: WorldSim::SimThread::SimThread() complete
+[00:00:09]: THREAD - started 'WorldSim' (18864)
+[00:00:09]: WorldSim::SimThread::Main()
+[00:00:09]: DoLuaFile scripts/worldgen_main.lua
+[00:00:09]: DoLuaFile loading buffer scripts/worldgen_main.lua
+[00:00:09]: Check for write access: TRUE
+[00:00:09]: Check for read access: TRUE
+[00:00:09]: Available disk space for save files: 217678 MB
+[00:00:09]: ModIndex: Load sequence finished successfully.	
+[00:00:09]: Reset() returning
+[00:00:09]: DLC enabled : 	false	
+[00:00:09]:   taskgrouplist:	default	Together	
+[00:00:09]:   taskgrouplist:	classic	Classic	
+[00:00:09]:   taskgrouplist:	cave_default	Underground	
+[00:00:09]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:09]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:09]: ModIndex:GetModsToLoad inserting modname, 	workshop-1221281706	
+[00:00:09]: ModIndex:GetModsToLoad inserting modname, 	workshop-347079953	
+[00:00:09]: ModIndex:GetModsToLoad inserting modname, 	workshop-786556008	
+[00:00:09]: ModIndex:GetModsToLoad inserting modname, 	workshop-569043634	
+[00:00:09]: ModIndex:GetModsToLoad inserting modname, 	workshop-1207269058	
+[00:00:09]: ModIndex:GetModsToLoad inserting modname, 	workshop-623749604	
+[00:00:09]: ModIndex:GetModsToLoad inserting modname, 	workshop-375859599	
+[00:00:09]: ModIndex:GetModsToLoad inserting modname, 	workshop-378160973	
+[00:00:09]: ModIndex:GetModsToLoad inserting modname, 	workshop-661253977	
+[00:00:09]: ModIndex:GetModsToLoad inserting modname, 	workshop-375850593	
+[00:00:09]: ModIndex:GetModsToLoad inserting modname, 	workshop-666155465	
+[00:00:09]: ModIndex:GetModsToLoad inserting modname, 	workshop-1185229307	
+[00:00:09]: ModIndex:GetModsToLoad inserting modname, 	workshop-856487758	
+[00:00:09]: Loading mod: workshop-1221281706 (The Forge Item Pack) Version:1.1.11	
+[00:00:09]: Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:00:09]: Loading mod: workshop-786556008 (45 Inventory Slots) Version:1.4.1	
+[00:00:09]: Loading mod: workshop-569043634 (Campfire Respawn) Version:1.6.8.1	
+[00:00:09]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.16	
+[00:00:09]: Loading mod: workshop-623749604 (Storeroom) Version:2.6a	
+[00:00:09]: Loading mod: workshop-375859599 (Health Info) Version:2.2.03	
+[00:00:09]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.4	
+[00:00:09]: Loading mod: workshop-661253977 ( Don't Drop Everything) Version:11:15 2020-08-10	
+[00:00:09]: Loading mod: workshop-375850593 (Extra Equip Slots) Version:1.8.0	
+[00:00:09]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.58	
+[00:00:09]: Loading mod: workshop-1185229307 (史诗般的血量条) Version:61	
+[00:00:09]: Loading mod: workshop-856487758 (Quick Drop) Version:1.1	
+[00:00:09]: Mod: workshop-1185229307 (史诗般的血量条)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-1185229307 (史诗般的血量条)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-786556008 (45 Inventory Slots)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-786556008 (45 Inventory Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-1221281706 (The Forge Item Pack)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-1221281706 (The Forge Item Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-623749604 (Storeroom)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-623749604 (Storeroom)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-856487758 (Quick Drop)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-856487758 (Quick Drop)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-569043634 (Campfire Respawn)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-569043634 (Campfire Respawn)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-661253977 ( Don't Drop Everything)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-661253977 ( Don't Drop Everything)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: running worldgen_main.lua
+	
+[00:00:09]: SEED = 	1669448947	
+[00:00:09]: Generating world with these parameters:	
+[00:00:09]: level_type	SURVIVAL	
+[00:00:09]: level_data:	
+[00:00:09]: 	K: 	background_node_range	 V: 	table: 000000000AB6BD60	
+[00:00:09]: 		K: 	1	 V: 	0	
+[00:00:09]: 		K: 	2	 V: 	1	
+[00:00:09]: 	K: 	custom_settings_desc	 V: 		
+[00:00:09]: 	K: 	custom_settings_id	 V: 	CUSTOM_ALWAYS USE IT	
+[00:00:09]: 	K: 	custom_settings_name	 V: 	always use it	
+[00:00:09]: 	K: 	custom_worldgen_desc	 V: 		
+[00:00:09]: 	K: 	custom_worldgen_id	 V: 	CUSTOM_ALWAYS USE IT	
+[00:00:09]: 	K: 	custom_worldgen_name	 V: 	always use it	
+[00:00:09]: 	K: 	desc	 V: 	探查洞穴…… 一起！	
+[00:00:09]: 	K: 	hideminimap	 V: 	false	
+[00:00:09]: 	K: 	id	 V: 	DST_CAVE	
+[00:00:09]: 	K: 	location	 V: 	cave	
+[00:00:09]: 	K: 	max_playlist_position	 V: 	999	
+[00:00:09]: 	K: 	min_playlist_position	 V: 	0	
+[00:00:09]: 	K: 	name	 V: 	洞穴	
+[00:00:09]: 	K: 	numrandom_set_pieces	 V: 	0	
+[00:00:09]: 	K: 	override_level_string	 V: 	false	
+[00:00:09]: 	K: 	overrides	 V: 	table: 000000000AB6B860	
+[00:00:09]: 		K: 	atriumgate	 V: 	default	
+[00:00:09]: 		K: 	banana	 V: 	default	
+[00:00:09]: 		K: 	basicresource_regrowth	 V: 	always	
+[00:00:09]: 		K: 	bats	 V: 	default	
+[00:00:09]: 		K: 	bats_setting	 V: 	default	
+[00:00:09]: 		K: 	beefaloheat	 V: 	default	
+[00:00:09]: 		K: 	berrybush	 V: 	default	
+[00:00:09]: 		K: 	boons	 V: 	default	
+[00:00:09]: 		K: 	branching	 V: 	least	
+[00:00:09]: 		K: 	brightmarecreatures	 V: 	default	
+[00:00:09]: 		K: 	bunnymen	 V: 	default	
+[00:00:09]: 		K: 	bunnymen_setting	 V: 	default	
+[00:00:09]: 		K: 	cave_ponds	 V: 	default	
+[00:00:09]: 		K: 	cave_spiders	 V: 	default	
+[00:00:09]: 		K: 	cavelight	 V: 	default	
+[00:00:09]: 		K: 	chess	 V: 	default	
+[00:00:09]: 		K: 	crow_carnival	 V: 	default	
+[00:00:09]: 		K: 	darkness	 V: 	nonlethal	
+[00:00:09]: 		K: 	day	 V: 	default	
+[00:00:09]: 		K: 	dropeverythingondespawn	 V: 	default	
+[00:00:09]: 		K: 	dustmoths	 V: 	default	
+[00:00:09]: 		K: 	earthquakes	 V: 	default	
+[00:00:09]: 		K: 	extrastartingitems	 V: 	5	
+[00:00:09]: 		K: 	fern	 V: 	default	
+[00:00:09]: 		K: 	fissure	 V: 	default	
+[00:00:09]: 		K: 	flint	 V: 	default	
+[00:00:09]: 		K: 	flower_cave	 V: 	default	
+[00:00:09]: 		K: 	flower_cave_regrowth	 V: 	default	
+[00:00:09]: 		K: 	fruitfly	 V: 	default	
+[00:00:09]: 		K: 	ghostenabled	 V: 	always	
+[00:00:09]: 		K: 	ghostsanitydrain	 V: 	none	
+[00:00:09]: 		K: 	grass	 V: 	default	
+[00:00:09]: 		K: 	grassgekkos	 V: 	default	
+[00:00:09]: 		K: 	hallowed_nights	 V: 	default	
+[00:00:09]: 		K: 	healthpenalty	 V: 	always	
+[00:00:09]: 		K: 	hunger	 V: 	nonlethal	
+[00:00:09]: 		K: 	krampus	 V: 	default	
+[00:00:09]: 		K: 	layout_mode	 V: 	RestrictNodesByKey	
+[00:00:09]: 		K: 	lessdamagetaken	 V: 	always	
+[00:00:09]: 		K: 	lichen	 V: 	default	
+[00:00:09]: 		K: 	liefs	 V: 	default	
+[00:00:09]: 		K: 	lightflier_flower_regrowth	 V: 	default	
+[00:00:09]: 		K: 	lightfliers	 V: 	default	
+[00:00:09]: 		K: 	loop	 V: 	default	
+[00:00:09]: 		K: 	marshbush	 V: 	default	
+[00:00:09]: 		K: 	merms	 V: 	default	
+[00:00:09]: 		K: 	molebats	 V: 	default	
+[00:00:09]: 		K: 	moles_setting	 V: 	default	
+[00:00:09]: 		K: 	monkey	 V: 	default	
+[00:00:09]: 		K: 	monkey_setting	 V: 	default	
+[00:00:09]: 		K: 	mushgnome	 V: 	default	
+[00:00:09]: 		K: 	mushroom	 V: 	default	
+[00:00:09]: 		K: 	mushtree	 V: 	default	
+[00:00:09]: 		K: 	mushtree_moon_regrowth	 V: 	default	
+[00:00:09]: 		K: 	mushtree_regrowth	 V: 	default	
+[00:00:09]: 		K: 	nightmarecreatures	 V: 	default	
+[00:00:09]: 		K: 	pigs_setting	 V: 	default	
+[00:00:09]: 		K: 	portalresurection	 V: 	always	
+[00:00:09]: 		K: 	prefabswaps_start	 V: 	default	
+[00:00:09]: 		K: 	reeds	 V: 	default	
+[00:00:09]: 		K: 	regrowth	 V: 	default	
+[00:00:09]: 		K: 	resettime	 V: 	none	
+[00:00:09]: 		K: 	roads	 V: 	never	
+[00:00:09]: 		K: 	rock	 V: 	default	
+[00:00:09]: 		K: 	rocky	 V: 	default	
+[00:00:09]: 		K: 	rocky_setting	 V: 	default	
+[00:00:09]: 		K: 	sapling	 V: 	default	
+[00:00:09]: 		K: 	season_start	 V: 	default	
+[00:00:09]: 		K: 	seasonalstartingitems	 V: 	default	
+[00:00:09]: 		K: 	shadowcreatures	 V: 	default	
+[00:00:09]: 		K: 	slurper	 V: 	default	
+[00:00:09]: 		K: 	slurtles	 V: 	default	
+[00:00:09]: 		K: 	slurtles_setting	 V: 	default	
+[00:00:09]: 		K: 	snurtles	 V: 	default	
+[00:00:09]: 		K: 	spawnmode	 V: 	fixed	
+[00:00:09]: 		K: 	spawnprotection	 V: 	default	
+[00:00:09]: 		K: 	specialevent	 V: 	default	
+[00:00:09]: 		K: 	spider_dropper	 V: 	default	
+[00:00:09]: 		K: 	spider_hider	 V: 	default	
+[00:00:09]: 		K: 	spider_spitter	 V: 	default	
+[00:00:09]: 		K: 	spider_warriors	 V: 	default	
+[00:00:09]: 		K: 	spiderqueen	 V: 	default	
+[00:00:09]: 		K: 	spiders	 V: 	default	
+[00:00:09]: 		K: 	spiders_setting	 V: 	default	
+[00:00:09]: 		K: 	start_location	 V: 	caves	
+[00:00:09]: 		K: 	task_set	 V: 	cave_default	
+[00:00:09]: 		K: 	temperaturedamage	 V: 	nonlethal	
+[00:00:09]: 		K: 	tentacles	 V: 	default	
+[00:00:09]: 		K: 	toadstool	 V: 	default	
+[00:00:09]: 		K: 	touchstone	 V: 	default	
+[00:00:09]: 		K: 	trees	 V: 	default	
+[00:00:09]: 		K: 	weather	 V: 	default	
+[00:00:09]: 		K: 	winters_feast	 V: 	default	
+[00:00:09]: 		K: 	world_size	 V: 	default	
+[00:00:09]: 		K: 	wormattacks	 V: 	default	
+[00:00:09]: 		K: 	wormhole_prefab	 V: 	tentacle_pillar	
+[00:00:09]: 		K: 	wormlights	 V: 	default	
+[00:00:09]: 		K: 	worms	 V: 	default	
+[00:00:09]: 		K: 	year_of_the_beefalo	 V: 	default	
+[00:00:09]: 		K: 	year_of_the_carrat	 V: 	default	
+[00:00:09]: 		K: 	year_of_the_catcoon	 V: 	default	
+[00:00:09]: 		K: 	year_of_the_gobbler	 V: 	default	
+[00:00:09]: 		K: 	year_of_the_pig	 V: 	default	
+[00:00:09]: 		K: 	year_of_the_varg	 V: 	default	
+[00:00:09]: 	K: 	required_prefabs	 V: 	table: 000000000AB76B20	
+[00:00:09]: 		K: 	1	 V: 	multiplayer_portal	
+[00:00:09]: 	K: 	settings_desc	 V: 	探查洞穴…… 一起！	
+[00:00:09]: 	K: 	settings_id	 V: 	DST_CAVE	
+[00:00:09]: 	K: 	settings_name	 V: 	洞穴	
+[00:00:09]: 	K: 	substitutes	 V: 	table: 000000000AB6B6D0	
+[00:00:09]: 	K: 	version	 V: 	4	
+[00:00:09]: 	K: 	worldgen_desc	 V: 	探查洞穴…… 一起！	
+[00:00:09]: 	K: 	worldgen_id	 V: 	DST_CAVE	
+[00:00:09]: 	K: 	worldgen_name	 V: 	洞穴	
+[00:00:09]: 
+#######
+#
+# Generating SURVIVAL Mode Level
+#
+#######
+	
+[00:00:09]: Prefab Swap Selection: regular grass	
+[00:00:09]: Prefab Swap Selection: twiggy trees	
+[00:00:09]: Prefab Swap Selection: regular berries	
+[00:00:09]: New size:	425	default	
+[00:00:09]: Creating story...	
+[00:00:09]: [Story Gen] Generate nodes. Starting at: 'MudWorld'	
+[00:00:09]: [Story Gen] RestrictNodesByKey	
+[00:00:09]: Finding valid start task...	
+[00:00:09]:    ...picked 	CaveExitTask6	
+[00:00:09]: Has start node	SinkholeOasis	
+[00:00:09]: Adding Background Nodes	
+[00:00:09]: [Story Gen] Adding Cove Nodes	
+[00:00:09]: Warning! Couldn't find a spot in AtriumMaze for CookingBoon	
+[00:00:09]: [WorldSimActual::WorldGen_InitializeNodePoints]
+[00:00:09]: [WorldSimActual::WorldGen_VoronoiPass]
+[00:00:09]: GenerateVoronoiMap [100]:
+[00:00:11]: ...Done.
+[00:00:11]: ... story created	
+[00:00:11]: Baking map...	425	
+[00:00:11]: [WorldSimActual::WorldGen_Commit] worldgen success.
+[00:00:11]: [WorldSimActual::ConvertToTileMap]
+[00:00:11]: [ConvertToTileMap]
+[00:00:11]: [WorldSimActual::ConvertToTileMap] complete
+[00:00:11]: [WorldSimActual::SeparateIslands]
+[00:00:11]: [SeparateIslands]
+[00:00:11]: [WorldSimActual::SeparateIslands] complete
+[00:00:11]: Map Baked!	
+[00:00:11]: [WorldSimActual::ForceConnectivity]
+[00:00:11]: [GenerateLandmasses]
+[00:00:11]: [GenerateLandmasses] islands: 19
+[00:00:11]: [MergeConnectedLandmasses] true
+[00:00:11]: [WorldSimActual::ForceConnectivity] complete
+[00:00:11]: Encoding...	
+[00:00:11]: [WorldSimActual::CreateNodeIdTileMap]
+[00:00:11]: Encoding... DONE	
+[00:00:11]: Checking Tags	
+[00:00:11]: Couldn't generate any points for maze. Aborting.
+[00:00:11]: Populating voronoi...	
+[00:00:11]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:11]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[00:00:11]: Warning! Could not find a spot for Mudlights in node SwampySinkhole:3:TentacleMud	
+[00:00:11]: Warning! Could not find a spot for Mudlights in node SwampySinkhole:3:TentacleMud	
+[00:00:11]: Warning! Could not find a spot for Mudlights in node SwampySinkhole:3:TentacleMud	
+[00:00:11]: Warning! Could not find a spot for Mudlights in node SwampySinkhole:3:TentacleMud	
+[00:00:11]: Warning! Could not find a spot for Mudlights in node SwampySinkhole:3:TentacleMud	
+[00:00:11]: Warning! Could not find a spot for PondSinkhole in node CaveExitTask7:0:SinkholeOasis	
+[00:00:11]: Warning! Could not find a spot for EvergreenSinkhole in node SwampySinkhole:4:TentaclesAndTrees	
+[00:00:11]: Warning! Could not find a spot for EvergreenSinkhole in node SwampySinkhole:4:TentaclesAndTrees	
+[00:00:11]: Warning! Could not find a spot for EvergreenSinkhole in node SwampySinkhole:4:TentaclesAndTrees	
+[00:00:11]: Warning! Could not find a spot for CornerWall2 in node Residential2:3:Vacant	
+[00:00:11]: Warning! Could not find a spot for CornerWall2 in node Residential2:3:Vacant	
+[00:00:11]: Warning! Could not find a spot for GrassySinkhole in node CaveExitTask8:0:GrasslandSinkhole	
+[00:00:11]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:11]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:11]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[00:00:11]: Warning! Could not find a spot for RabbitCity in node RabbitCity:5:RabbitCity	
+[00:00:11]: Warning! Could not find a spot for CornerWall2 in node Residential:4:Vacant	
+[00:00:11]: Warning! Could not find a spot for CornerWall2 in node Residential:4:Vacant	
+[00:00:11]: Warning! Could not find a spot for CornerWall2 in node Residential:4:Vacant	
+[00:00:11]: Warning! Could not find a spot for EvergreenSinkhole in node UndergroundForest:0:SinkholeCopses	
+[00:00:11]: [ReplaceSingleNonLandTiles] Validating...
+[00:00:11]: [ReplaceSingleNonLandTiles] Replaced 55 tiles.
+[00:00:11]: disconnected tiles...	868	
+[00:00:11]: Removing entity on IMPASSABLE		108.295	105.265	-416.82, 0, -428.94	
+[00:00:11]: Checking Required Prefab atrium_gate has at least 1 instances (1 found).	
+[00:00:11]: Checking Required Prefab archive_orchestrina_main has at least 1 instances (1 found).	
+[00:00:11]: Checking Required Prefab multiplayer_portal has at least 1 instances (1 found).	
+[00:00:11]: Checking Required Prefab sacred_chest has at least 1 instances (1 found).	
+[00:00:11]: Checking Required Prefab minotaur_spawner has at least 1 instances (1 found).	
+[00:00:11]: Checking Required Prefab archive_lockbox_dispencer has at least 3 instances (4 found).	
+[00:00:11]: [ReplaceSingleNonLandTiles] Validating...
+[00:00:11]: [ReplaceSingleNonLandTiles] Replaced 0 tiles.
+[00:00:11]: Done cave map gen!	
+[00:00:11]: Checking map...	
+[00:00:11]: Generation complete, injecting world entities.	
+[00:00:11]: Injected world entities.	
+[00:00:11]: WorldSim::SimThread::Main() complete
+[00:00:12]: Serializing world: session/141C3ACC60A1CC95/0000000002
+[00:00:12]: Klump load on boot started.	
+[00:00:12]: Klump files loaded: 	0	
+[00:00:12]: 	Unload FE	
+[00:00:12]: 	Unload FE done	
+[00:00:12]: Mod: workshop-1185229307 (史诗般的血量条)	Registering prefabs	
+[00:00:12]: Mod: workshop-1185229307 (史诗般的血量条)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:00:12]: Mod: workshop-1185229307 (史诗般的血量条)	    epichealth_proxy	
+[00:00:12]: Mod: workshop-1185229307 (史诗般的血量条)	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-375850593 (Extra Equip Slots)	Registering prefabs	
+[00:00:12]: Mod: workshop-375850593 (Extra Equip Slots)	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-347079953 (Display food values)	Registering prefabs	
+[00:00:12]: Mod: workshop-347079953 (Display food values)	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-786556008 (45 Inventory Slots)	Registering prefabs	
+[00:00:12]: Mod: workshop-786556008 (45 Inventory Slots)	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[00:00:12]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:00:12]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	Registering prefabs	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/forgedarts	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    forgedarts	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    forgedarts_projectile	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    forgedarts_projectile_alt	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/forginghammer	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    forginghammer	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    forginghammer_crackle_fx	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    forginghammer_cracklebase_fx	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    forgeelectricute_fx	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/riledlucy	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    riledlucy	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    lucyspin_fx	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    splash_lavafx	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/pithpike	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    pithpike	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/livingstaff	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    livingstaff	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/moltendarts	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    moltendarts	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    moltendarts_projectile	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    moltendarts_projectile_explosive	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/infernalstaff	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    infernalstaff	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/spiralspear	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    spiralspear	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/hearthsfire_crystals	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    hearthsfire_crystals	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    hearthsfire_crystals_projectile	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    hearthsfire_crystals_explosion	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    hearthsfire_crystals_proc_fx	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    hearthsfire_crystals_sparks	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/blacksmith_edge	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    blacksmith_edge	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/forge_books	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    petrifyingtome	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    bacontome	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/forge_armor	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    armor_hpextraheavy	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    armor_hppetmastery	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    steadfastarmor	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    armor_hpdamager	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    splintmail	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    featheredtunic	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    reedtunic	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    armor_hprecharger	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    jaggedarmor	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    forge_woodarmor	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    silkenarmor	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/forge_hats	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    flowerheadband	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    wovengarland	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    barbedhelm	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    clairvoyantcrown	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    blossomedwreath	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    featheredwreath	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    resplendentnoxhelm	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    crystaltiara	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    noxhelm	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/golem	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    golem	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/forge_fireball_projectile	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    forge_fireball_projectile	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    forge_blossom_projectile	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    forge_fireball_hit_fx	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    forge_blossom_hit_fx	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    forge_fireball_projectile_fast	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/infernalstaff_meteor	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    infernalstaff_meteor	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    infernalstaff_meteor_splash	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    infernalstaff_meteor_splashbase	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    infernalstaff_meteor_splashhit	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/weaponsparks_fx	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    weaponsparks_fx	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/forgespear_fx	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    forgespear_fx	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/healingcircle	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    healingcircle	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    healingcircle_bloom	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    healingcircle_center	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering prefab file: prefabs/healingcircle_regenbuff	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	    healingcircle_regenbuff	
+[00:00:12]: Mod: workshop-1221281706 (The Forge Item Pack)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-623749604 (Storeroom)	Registering prefabs	
+[00:00:13]: Mod: workshop-623749604 (Storeroom)	  Registering prefab file: prefabs/storeroom	
+[00:00:13]: Mod: workshop-623749604 (Storeroom)	    storeroom	
+[00:00:13]: Mod: workshop-623749604 (Storeroom)	    storeroom_placer	
+[00:00:13]: Mod: workshop-623749604 (Storeroom)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-856487758 (Quick Drop)	Registering prefabs	
+[00:00:13]: Mod: workshop-856487758 (Quick Drop)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-569043634 (Campfire Respawn)	Registering prefabs	
+[00:00:13]: Mod: workshop-569043634 (Campfire Respawn)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-661253977 ( Don't Drop Everything)	Registering prefabs	
+[00:00:13]: Mod: workshop-661253977 ( Don't Drop Everything)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[00:00:13]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[00:00:13]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[00:00:13]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[00:00:13]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[00:00:13]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[00:00:13]: 	LOAD BE	
+[00:00:20]: 	LOAD BE: done	
+[00:00:20]: Begin Session: 141C3ACC60A1CC95
+[00:00:20]: saving to server_temp/server_save	
+[00:00:20]: OVERRIDE: setting	healthpenalty	to	always	
+[00:00:20]: OVERRIDE: setting	extrastartingitems	to	5	
+[00:00:20]: OVERRIDE: setting	darkness	to	nonlethal	
+[00:00:20]: OVERRIDE: setting	hunger	to	nonlethal	
+[00:00:20]: OVERRIDE: setting	temperaturedamage	to	nonlethal	
+[00:00:20]: OVERRIDE: setting	lessdamagetaken	to	always	
+[00:00:20]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-623749604/minimap/storeroom.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:20]: Loading 19 new character(s)	
+[00:00:20]: Total 19 character(s) loaded	
+[00:00:23]: Loading Nav Grid	
+[00:00:23]: World generated on build 532704 with save version: 5.13, using seed: 1669448947	
+[00:00:23]: [Shard] Secondary shard is waiting for LUA...
+[00:00:23]: OVERRIDE: setting	ghostenabled	to	always	
+[00:00:23]: OVERRIDE: setting	resettime	to	none	
+[00:00:23]: OVERRIDE: setting	basicresource_regrowth	to	always	
+[00:00:23]: OVERRIDE: setting	portalresurection	to	always	
+[00:00:23]: OVERRIDE: setting	spawnmode	to	fixed	
+[00:00:23]: OVERRIDE: setting	ghostsanitydrain	to	none	
+[00:00:24]: Can't find prefab archive_sound_area	
+[00:00:24]: SpawnSaveRecord [nil, archive_sound_area] FAILED	
+[00:00:24]: Can't find prefab archive_sound_area	
+[00:00:24]: SpawnSaveRecord [nil, archive_sound_area] FAILED	
+[00:00:24]: Can't find prefab archive_sound_area	
+[00:00:24]: SpawnSaveRecord [nil, archive_sound_area] FAILED	
+[00:00:25]: SWITCHING 	false	
+[00:00:25]: Reconstructing topology	
+[00:00:25]: 	...Sorting points	
+[00:00:25]: 	...Sorting edges	
+[00:00:25]: 	...Connecting nodes	
+[00:00:25]: 	...Validating connections	
+[00:00:25]: 	...Housekeeping	
+[00:00:25]: 	...Done!	
+[00:00:25]: 1 uploads added to server. From server_temp
+[00:00:25]: About to start a shard with these settings:
+[00:00:25]:   ShardName: Caves
+[00:00:25]:   ShardID: 4265549813
+[00:00:25]:   ShardRole: SECONDARY
+[00:00:25]:   MasterHost: 127.0.0.1
+[00:00:25]:   MasterBind: (null)
+[00:00:25]:   MasterPort: 10888
+[00:00:25]: [Shard] Connecting to master...
+[00:00:25]: Telling Client our new session identifier: 141C3ACC60A1CC95
+[00:00:25]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:00:25]: Validating portal[1] <-> <nil>[1] (inactive)	
+[00:00:25]: Validating portal[2] <-> <nil>[2] (inactive)	
+[00:00:25]: Validating portal[3] <-> <nil>[3] (inactive)	
+[00:00:25]: Validating portal[4] <-> <nil>[4] (inactive)	
+[00:00:25]: Validating portal[5] <-> <nil>[5] (inactive)	
+[00:00:25]: Validating portal[6] <-> <nil>[6] (inactive)	
+[00:00:25]: Validating portal[7] <-> <nil>[7] (inactive)	
+[00:00:25]: Validating portal[8] <-> <nil>[8] (inactive)	
+[00:00:25]: Validating portal[9] <-> <nil>[9] (inactive)	
+[00:00:25]: Validating portal[10] <-> <nil>[10] (inactive)	
+[00:00:30]: About to start a shard with these settings:
+[00:00:30]:   ShardName: Caves
+[00:00:30]:   ShardID: 4265549813
+[00:00:30]:   ShardRole: SECONDARY
+[00:00:30]:   MasterHost: 127.0.0.1
+[00:00:30]:   MasterBind: (null)
+[00:00:30]:   MasterPort: 10888
+[00:00:30]: [Shard] Connecting to master...
+[00:00:30]: [Shard] Sending secondary shard information to master...
+[00:00:30]: Received MasterInfoPacket row ccb47b4900d1082ac05381f068252aa5 region Sing
+[00:00:30]: Registering secondary shard in Sing lobby
+[00:00:31]: [Shard] secondary shard is now ready!
+[00:00:31]: World 1 is now connected	
+[00:00:31]: [SyncWorldSettings] Sending ResyncWorldSettings.	
+[00:00:31]: Validating portal[1] <-> 1[1] (active)	
+[00:00:31]: Validating portal[2] <-> 1[2] (active)	
+[00:00:31]: Validating portal[3] <-> 1[3] (active)	
+[00:00:31]: Validating portal[4] <-> 1[4] (active)	
+[00:00:31]: Validating portal[5] <-> 1[5] (active)	
+[00:00:31]: Validating portal[6] <-> 1[6] (active)	
+[00:00:31]: Validating portal[7] <-> 1[7] (active)	
+[00:00:31]: Validating portal[8] <-> 1[8] (active)	
+[00:00:31]: Validating portal[9] <-> 1[9] (active)	
+[00:00:31]: Validating portal[10] <-> 1[10] (active)	
+[00:00:31]: [SyncWorldSettings] recieved world settings from master shard.	true	
+[00:00:31]: [SyncWorldSettings] applying temperaturedamage = nonlethal from master shard.	
+[00:00:31]: [SyncWorldSettings] applying spawnmode = fixed from master shard.	
+[00:00:31]: [SyncWorldSettings] applying lessdamagetaken = always from master shard.	
+[00:00:31]: [SyncWorldSettings] applying ghostenabled = always from master shard.	
+[00:00:31]: [SyncWorldSettings] applying shadowcreatures = default from master shard.	
+[00:00:31]: [SyncWorldSettings] applying resettime = none from master shard.	
+[00:00:31]: [SyncWorldSettings] applying krampus = default from master shard.	
+[00:00:31]: [SyncWorldSettings] applying ghostsanitydrain = none from master shard.	
+[00:00:31]: [SyncWorldSettings] applying healthpenalty = always from master shard.	
+[00:00:31]: [SyncWorldSettings] applying dropeverythingondespawn = default from master shard.	
+[00:00:31]: [SyncWorldSettings] applying darkness = nonlethal from master shard.	
+[00:00:31]: [SyncWorldSettings] applying portalresurection = always from master shard.	
+[00:00:31]: component hauntable already exists on entity 105369 - multiplayer_portal!	scripts/prefabs/multiplayer_portal.lua:47 in (upvalue) OnGetPortalRez (Lua) <45-54>	
+[00:00:31]: [SyncWorldSettings] applying brightmarecreatures = default from master shard.	
+[00:00:31]: [SyncWorldSettings] applying hunger = nonlethal from master shard.	
+[00:00:31]: [SyncWorldSettings] applying basicresource_regrowth = always from master shard.	
+[00:00:31]: [SyncWorldSettings] recieved world settings from master shard.	true	
+[00:00:31]: [SyncWorldSettings] applying temperaturedamage = nonlethal from master shard.	
+[00:00:31]: [SyncWorldSettings] applying spawnmode = fixed from master shard.	
+[00:00:31]: [SyncWorldSettings] applying lessdamagetaken = always from master shard.	
+[00:00:31]: [SyncWorldSettings] applying ghostenabled = always from master shard.	
+[00:00:31]: [SyncWorldSettings] applying shadowcreatures = default from master shard.	
+[00:00:31]: [SyncWorldSettings] applying resettime = none from master shard.	
+[00:00:31]: [SyncWorldSettings] applying krampus = default from master shard.	
+[00:00:31]: [SyncWorldSettings] applying ghostsanitydrain = none from master shard.	
+[00:00:31]: [SyncWorldSettings] applying healthpenalty = always from master shard.	
+[00:00:31]: [SyncWorldSettings] applying dropeverythingondespawn = default from master shard.	
+[00:00:31]: [SyncWorldSettings] applying darkness = nonlethal from master shard.	
+[00:00:31]: [SyncWorldSettings] applying portalresurection = always from master shard.	
+[00:00:31]: component hauntable already exists on entity 105369 - multiplayer_portal!	scripts/prefabs/multiplayer_portal.lua:47 in (upvalue) OnGetPortalRez (Lua) <45-54>	
+[00:00:31]: [SyncWorldSettings] applying brightmarecreatures = default from master shard.	
+[00:00:31]: [SyncWorldSettings] applying hunger = nonlethal from master shard.	
+[00:00:31]: [SyncWorldSettings] applying basicresource_regrowth = always from master shard.	
+[00:00:32]: [Shard] secondary shard LUA is now ready!
+[00:00:32]: [IPC] Signal 'DST_Secondary_Ready' opened  #0000000000000A40
+[00:00:32]: [IPC] Sending signal... #0000000000000A40
+[00:00:32]: Sim paused
+[00:05:30]: Registering secondary shard in Sing lobby
+[00:10:30]: Registering secondary shard in Sing lobby
+[00:11:58]: Sim unpaused
+[00:15:30]: Registering secondary shard in Sing lobby
+[00:18:39]: Server Paused	
+[00:18:45]: Server Unpaused	
+[00:20:05]: Available disk space for save files: 217667 MB
+[00:20:05]: Serializing world: session/141C3ACC60A1CC95/0000000003
+[00:20:30]: Registering secondary shard in Sing lobby
+[00:21:00]: Server Paused	
+[00:21:38]: Server Unpaused	
+[00:21:39]: [Shard] We have been disconnected from the master. Waiting to reconnect...
+[00:21:39]: Sim paused
+[00:21:40]: [IPC] Received shutdown signal.
+[00:21:40]: Available disk space for save files: 217634 MB
+[00:21:41]: Serializing world: session/141C3ACC60A1CC95/0000000004
+[00:21:41]: [Shard] Stopping shard mode
+[00:21:41]: [Steam] SendUserDisconnect for ''
+[00:21:41]: Collecting garbage...
+[00:21:41]: lua_gc took 0.20 seconds
+[00:21:41]: ~ShardLuaProxy()
+[00:21:41]: ~cEventLeaderboardProxy()
+[00:21:41]: ~ItemServerLuaProxy()
+[00:21:41]: ~InventoryLuaProxy()
+[00:21:41]: ~NetworkLuaProxy()
+[00:21:41]: ~SimLuaProxy()
+[00:21:41]: lua_close took 0.21 seconds
+[00:21:41]: CurlRequestManager::ClientThread::Main() complete
+[00:21:41]: HttpClient2 discarded 0 callbacks.
+[00:21:41]: Shutting down
