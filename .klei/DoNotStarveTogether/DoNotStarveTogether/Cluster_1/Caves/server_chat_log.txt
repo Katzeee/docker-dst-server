@@ -1,7 +1,1 @@
-[00:00:45]: [Join Announcement] Xac
-[00:10:47]: [Join Announcement] 天朝菜批白嫖客
-[00:11:22]: [Join Announcement] Catnip
-[00:12:54]: [Leave Announcement] Catnip
-[00:14:13]: [Join Announcement] Catnip
-[00:15:20]: [Say] (KU_0vPtViED) Xac: yy
-[00:21:37]: [Leave Announcement] Xac
+[00:00:44]: [Join Announcement] Xac
