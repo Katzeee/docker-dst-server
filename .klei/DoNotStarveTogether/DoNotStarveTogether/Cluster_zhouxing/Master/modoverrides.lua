@@ -60,6 +60,39 @@ return {
     },
     enabled=true 
   },
+  ["workshop-2477889104"]={
+    configuration_options={
+      BADGE_BG_BRIGHTNESS=60,
+      BADGE_BG_OPACITY=100,
+      COLOR_DOMESTICATION_DEFAULT="WHITE",
+      COLOR_DOMESTICATION_ORNERY="ORANGE",
+      COLOR_DOMESTICATION_PUDGY="PURPLE",
+      COLOR_DOMESTICATION_RIDER="BLUE",
+      COLOR_OBEDIENCE="RED",
+      COLOR_TIMER="GREEN",
+      ClientConfig=false,
+      EnableSounds=false,
+      GapModifier=0,
+      HEALTH_BADGE_CLEAR_BG=false,
+      HungerThreshold=10,
+      OffsetX=0,
+      OffsetXFine=0,
+      OffsetXMult=1,
+      OffsetY=0,
+      OffsetYFine=0,
+      OffsetYMult=1,
+      SEPARATOR_BADGE_COLORS=1,
+      SEPARATOR_BADGE_SETTINGS=1,
+      SEPARATOR_GENERAL=1,
+      SEPARATOR_POSITIONING_X=1,
+      SEPARATOR_POSITIONING_Y=1,
+      Scale=1,
+      ShowByDefault=true,
+      Theme="TheForge",
+      ToggleKey="KEY_T" 
+    },
+    enabled=true 
+  },
   ["workshop-347079953"]={
     configuration_options={ DFV_Language="EN", DFV_MinimalMode="default" },
     enabled=true 
