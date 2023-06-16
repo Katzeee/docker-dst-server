@@ -1,0 +1,44 @@
+[00:01:09]: [Join Announcement] Xac
+[00:27:15]: [Skin Announcement] Xac body_buttons_white_ghost
+[01:21:29]: [Say] (KU_0vPtViED) Xac:  [BSPJ] 坐标 (525.50, 0.00, -622.00) 需要一个"烹饪锅"
+(cookpot#6#-90.00#cook_pot#idle_empty#cook_pot#1.00#1.00#1.00)
+[01:21:29]: [Say] (KU_0vPtViED) Xac:  [BSPJ] 坐标 (525.50, 0.00, -622.00) 需要一个"烹饪锅"
+(cookpot#6#-90.00#cook_pot#idle_empty#cook_pot#1.00#1.00#1.00)
+[01:21:59]: [Say] (KU_0vPtViED) Xac:  [BSPJ] 坐标 (522.00, 0.00, -642.50) 需要一个"舔盐块"
+(saltlick#6#-90.00#salt_lick#idle1#salt_lick#1.00#1.00#1.00)
+[01:22:02]: [Say] (KU_0vPtViED) Xac:  [BSPJ] 坐标 (522.00, 0.00, -646.00) 需要一个"皮弗娄牛美妆台"
+(beefalo_groomer#6#-90.00#beefalo_wardrobe#idle#beefalo_wardrobe#1.00#1.00#1.00)
+[01:22:04]: [Say] (KU_0vPtViED) Xac:  [BSPJ] 坐标 (522.00, 0.00, -639.00) 需要一个"衣柜"
+(wardrobe#6#-90.00#wardrobe#closed#wardrobe#1.00#1.00#1.00)
+[01:22:09]: [Say] (KU_0vPtViED) Xac:  [BSPJ] 坐标 (522.00, 0.00, -634.00) 需要一个"雪球发射器"
+(firesuppressor#6#-90.00#firefighter#idle_off#firefighter#1.00#1.00#1.00)
+[01:22:11]: [Say] (KU_0vPtViED) Xac:  [BSPJ] 坐标 (525.00, 0.00, -630.50) 需要一个"遮阳篷"
+(siestahut#6#-90.00#siesta_canopy#idle#siesta_canopy#1.00#1.00#1.00)
+[01:26:35]: [Skin Announcement] Xac hammer_invisible
+[01:27:50]: [Say] (KU_0vPtViED) Xac:  [BSPJ] 坐标 (525.50, 0.00, -622.00) 需要一个"烹饪锅"
+(cookpot#6#-90.00#cook_pot#idle_empty#cook_pot#1.00#1.00#1.00)
+[01:31:44]: [Say] (KU_0vPtViED) Xac:  [BSPJ] 坐标 (522.00, 0.00, -616.00) 需要一个"懒人传送塔"
+(townportal#6#-90.00#townportal#idle_off#townportal#1.00#1.00#1.00)
+[01:31:47]: [Say] (KU_0vPtViED) Xac:  [BSPJ] 坐标 (522.00, 0.00, -612.50) 需要一个"月晷"
+(moondial#6#-90.00#moondial_build#idle_threequarter#moondial#1.00#1.00#1.00)
+[01:32:35]: [Say] (KU_0vPtViED) Xac:  [BSPJ] 坐标 (526.00, 0.00, -635.00) 需要一个"魔术师箱子"
+(magician_chest#6#-90.00#magician_chest#closed#magician_chest#1.00#1.00#1.00)
+[01:32:39]: [Say] (KU_0vPtViED) Xac:  [BSPJ] 坐标 (522.00, 0.00, -635.50) 需要一个"友善的稻草人"
+(scarecrow#6#-90.00#scarecrow#idle#scarecrow#1.00#1.00#1.00)
+[01:36:44]: [Say] (KU_0vPtViED) Xac:  [BSPJ] 坐标 (528.00, 0.00, -632.50) 需要一个"钓具容器"
+(tacklestation#6#-90.00#tackle_station#idle#tackle_station#1.00#1.00#1.00)
+[01:43:04]: [Say] (KU_0vPtViED) Xac:  [BSPJ] 坐标 (522.00, 0.00, -612.50) 需要一个"月晷"
+(moondial#6#-90.00#moondial_build#idle_threequarter#moondial#1.00#1.00#1.00)
+[01:43:06]: [Say] (KU_0vPtViED) Xac:  [BSPJ] 坐标 (516.50, 0.00, -616.50) 需要一个"龙鳞宝箱"
+(dragonflychest#6#-90.00#dragonflychest_fantasy#closed#dragonfly_chest#1.00#1.00#1.00)
+[02:09:28]: [Say] (KU_0vPtViED) Xac:  [BSPJ] 坐标 (520.25, 0.00, -625.03) 需要一个"烹饪锅"
+(cookpot#6#-90.00#cook_pot#idle_empty#cook_pot#1.00#1.00#1.00)
+[02:09:29]: [Say] (KU_0vPtViED) Xac:  [BSPJ] 坐标 (515.41, 0.00, -624.58) 需要一个"箱子"
+(treasurechest#6#-90.00#treasure_chest#closed#chest#1.00#1.00#1.00)
+[02:10:03]: [Say] (KU_0vPtViED) Xac:  [BSPJ] 坐标 (514.00, 0.00, -626.00) 需要一个"暗影操控器"
+(researchlab3#6#-90.00#researchlab3#idle#researchlab3#1.00#1.00#1.00)
+[02:10:04]: [Say] (KU_0vPtViED) Xac:  [BSPJ] 坐标 (514.00, 0.00, -628.00) 需要一个"箱子"
+(treasurechest#6#-90.00#treasure_chest#closed#chest#1.00#1.00#1.00)
+[02:12:01]: [Say] (KU_0vPtViED) Xac: t
+[02:26:44]: [Skin Announcement] Xac body_buttons_green_laurel
+[03:37:14]: [Leave Announcement] Xac
