@@ -1,2 +1,9 @@
-[00:00:58]: [Join Announcement] Xac
-[00:01:08]: [Leave Announcement] Xac
+[00:00:41]: [Join Announcement] Xac
+[00:03:06]: [Join Announcement] 迟钝鲨鱼
+[00:13:19]: [Skin Announcement] Xac legs_pinstripe_pants_brown_chocolate
+[01:02:34]: [Death Announcement] Xac 死于： 时间流逝。她变成了可怕的鬼魂！
+[01:02:44]: [Vote Announcement] rollback passed
+[02:23:43]: [Whisper] (KU_0vPtViED) Xac: cheng bao shi
+[02:23:48]: [Say] (KU_0vPtViED) Xac: lv bao shi
+[02:24:32]: [Leave Announcement] Xac
+[02:24:33]: [Leave Announcement] 迟钝鲨鱼
