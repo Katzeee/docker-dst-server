@@ -1,0 +1,2 @@
+[00:00:50]: [Join Announcement] Xac
+[00:01:02]: [Leave Announcement] Xac
