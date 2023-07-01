@@ -24,7 +24,8 @@ ServerModSetup("856487758") --Quick Drop
 ServerModSetup("1185229307") --史诗般的血量条 (Epic Healthbar)
 ServerModSetup("1207269058") --简易血条DST
 ServerModSetup("1221281706") --The Forge Items Pack
+ServerModSetup("1595631294") --Smart minisign
 ServerModSetup("1998081438") --Drop and Stack
 ServerModSetup("2078243581") --Display Attack Range
-ServerModSetup("2328604820") --lian dao
+ServerModSetup("2328604820") --镰刀
 ServerModSetup("2477889104") --Beefalo Status Bar

@@ -13,6 +13,17 @@ return {
     enabled=true 
   },
   ["workshop-1207269058"]={ configuration_options={  }, enabled=true },
+  ["workshop-1595631294"]={
+    configuration_options={
+      BundleItems=false,
+      ChangeSkin=true,
+      Digornot=false,
+      DragonflyChest=false,
+      Icebox=false,
+      SaltBox=false 
+    },
+    enabled=true 
+  },
   ["workshop-1998081438"]={ configuration_options={ StackMode=true, StackRadius=10 }, enabled=true },
   ["workshop-2328604820"]={
     configuration_options={
@@ -75,7 +86,6 @@ return {
     },
     enabled=true 
   },
-  ["workshop-2966979495"]={ configuration_options={  }, enabled=true },
   ["workshop-347079953"]={
     configuration_options={ DFV_Language="CN", DFV_MinimalMode="default" },
     enabled=true 
